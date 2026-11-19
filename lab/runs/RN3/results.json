@@ -1,0 +1,527 @@
+[
+ {
+  "variable": "number of arranging systems",
+  "value": 0
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "DAW plugin"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "ML method"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "code or model only"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "commercially available"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "desktop application"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "free or open-source"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "free tier"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "full-match arranger"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "interactive or real-time"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "mobile app"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "notated output"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "notation-app plugin or feature"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "one-time purchase"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "price not stated"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "research prototype"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "rules method"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "score input"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "subscription"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "unclear method"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "user-chosen instrumentation"
+  }
+ },
+ {
+  "variable": "systems with code",
+  "value": 0,
+  "conditions": {
+   "code": "web service"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "ML method",
+   "availability": "commercially available"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "ML method",
+   "availability": "free or open-source"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "ML method",
+   "availability": "research prototype"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "rules method",
+   "availability": "commercially available"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "rules method",
+   "availability": "free or open-source"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "rules method",
+   "availability": "research prototype"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "unclear method",
+   "availability": "commercially available"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "unclear method",
+   "availability": "free or open-source"
+  }
+ },
+ {
+  "variable": "systems by method and availability",
+  "value": 0,
+  "conditions": {
+   "method": "unclear method",
+   "availability": "research prototype"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "desktop application",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "desktop application",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "desktop application",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "web service",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "web service",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "web service",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "DAW plugin",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "DAW plugin",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "DAW plugin",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "notation-app plugin or feature",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "notation-app plugin or feature",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "notation-app plugin or feature",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "mobile app",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "mobile app",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "mobile app",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "code or model only",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "code or model only",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by platform and method",
+  "value": 0,
+  "conditions": {
+   "platform": "code or model only",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "one-time purchase",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "one-time purchase",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "one-time purchase",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "subscription",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "subscription",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "subscription",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "free tier",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "free tier",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "free tier",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "price not stated",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "price not stated",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "systems by pricing and method",
+  "value": 0,
+  "conditions": {
+   "pricing": "price not stated",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "notated chosen-instrument systems by input and method",
+  "value": 0,
+  "conditions": {
+   "input": "score input",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "notated chosen-instrument systems by input and method",
+  "value": 0,
+  "conditions": {
+   "input": "score input",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "notated chosen-instrument systems by input and method",
+  "value": 0,
+  "conditions": {
+   "input": "score input",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "notated chosen-instrument systems by input and method",
+  "value": 0,
+  "conditions": {
+   "input": "other input",
+   "method": "ML method"
+  }
+ },
+ {
+  "variable": "notated chosen-instrument systems by input and method",
+  "value": 0,
+  "conditions": {
+   "input": "other input",
+   "method": "rules method"
+  }
+ },
+ {
+  "variable": "notated chosen-instrument systems by input and method",
+  "value": 0,
+  "conditions": {
+   "input": "other input",
+   "method": "unclear method"
+  }
+ },
+ {
+  "variable": "systems without exactly one code of a group",
+  "value": 0,
+  "conditions": {
+   "group": "method"
+  }
+ },
+ {
+  "variable": "systems without exactly one code of a group",
+  "value": 0,
+  "conditions": {
+   "group": "availability"
+  }
+ }
+]
