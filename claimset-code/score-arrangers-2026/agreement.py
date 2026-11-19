@@ -43,6 +43,12 @@ def main():
         if pairs:
             out.append({"variable": "share of dossiers agreed", "value": sum(x == y for x, y in pairs) / len(pairs),
                         "conditions": {"code": code}})
+    methods = ("ML method", "rules method", "unclear method")
+    avail = ("commercially available", "free or open-source", "research prototype")
+    for group, names in (("method", methods), ("availability", avail)):
+        out.append({"variable": "systems without exactly one code of a group",
+                    "value": sum(len(set(names) & has[2][s]) != 1 for s in has[2]),
+                    "conditions": {"group": group, "pass": 2}})
     res = os.environ.get("CLAIMSET_RESULTS")
     if res:
         json.dump(out, open(res, "w", encoding="utf-8"), indent=1)
