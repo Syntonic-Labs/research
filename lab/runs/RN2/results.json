@@ -1,0 +1,21 @@
+[
+ {
+  "variable": "count: n",
+  "value": 1,
+  "n": 1,
+  "conditions": {
+   "unit": "source",
+   "distinct_by": "source",
+   "code": "TM12"
+  }
+ },
+ {
+  "variable": "count: n_all",
+  "value": 1,
+  "n": 1,
+  "conditions": {
+   "unit": "source",
+   "distinct_by": "source"
+  }
+ }
+]

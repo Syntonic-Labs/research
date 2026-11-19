@@ -1,0 +1,1537 @@
+{
+ "codes": [
+  {
+   "id": "TM2",
+   "version": "TM2",
+   "term": "notated output",
+   "definition": "The system delivers its arrangement as notation a musician reads: a score or parts in standard staff notation, exported as MusicXML, PDF or a notation application's file, or written into a notation editor.",
+   "code": {
+    "include": "The system's own description or documentation shows the arrangement as staff notation, or exports MusicXML, PDF score/parts, or a notation-app file.",
+    "exclude": "Output only as audio, MIDI without notation, tablature or chord charts alone, or piano-roll."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM3",
+   "version": "TM3",
+   "term": "user-chosen instrumentation",
+   "definition": "The user selects the instruments or ensemble the arrangement is written for.",
+   "code": {
+    "include": "The user picks target instruments, an ensemble, or a template of instruments, and the parts are written for that choice.",
+    "exclude": "A fixed instrumentation (e.g. piano only, or a style's fixed band) the user cannot change instrument by instrument."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM4",
+   "version": "TM4",
+   "term": "score input",
+   "definition": "The system accepts notated music as its input.",
+   "code": {
+    "include": "Accepts MusicXML, or works on a score inside a notation application (which reads MusicXML).",
+    "exclude": "Accepts only audio, MIDI, chord symbols, text prompts or live playing."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM6",
+   "version": "TM6",
+   "term": "rules method",
+   "definition": "The arrangement is produced by hand-written rules, styles, templates or algorithms without a trained model.",
+   "code": {
+    "include": "The developer describes style files, templates, rules, voice-leading algorithms or search procedures, or an independent review does.",
+    "exclude": "Any trained model generating the arrangement."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM9",
+   "version": "TM9",
+   "term": "commercially available",
+   "definition": "Sold or licensed to the public (paid, subscription or freemium) at the date of retrieval.",
+   "code": {
+    "include": "A price, subscription or purchase page exists at retrieval.",
+    "exclude": "Free open-source, free-only, discontinued, or research-only systems."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM15",
+   "version": "TM15",
+   "term": "subscription",
+   "definition": "Paid by recurring fee (monthly or yearly), or by credits bought repeatedly.",
+   "code": {
+    "include": "A monthly or yearly price, or credit packs, listed at retrieval.",
+    "exclude": "One-off purchase only, or free."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM16",
+   "version": "TM16",
+   "term": "free tier",
+   "definition": "A free version or free use exists alongside paid options (freemium), or the system is wholly free.",
+   "code": {
+    "include": "Free plan, free version, free trial longer than a demo, or wholly free use.",
+    "exclude": "Time-limited trial of a paid product only, or no public access."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM18",
+   "version": "TM18",
+   "term": "desktop application",
+   "definition": "Runs as a standalone application on a computer.",
+   "code": {
+    "include": "Downloadable standalone program for Windows, macOS or Linux.",
+    "exclude": "Runs only inside another host (plugin) or in a browser."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM21",
+   "version": "TM21",
+   "term": "notation-app plugin or feature",
+   "definition": "Runs inside a notation application (Sibelius, Dorico, MuseScore, Finale) as a plugin or built-in feature.",
+   "code": {
+    "include": "A notation application's own feature, or a plugin for one.",
+    "exclude": "Exports to a notation app without running inside it."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM22",
+   "version": "TM22",
+   "term": "mobile app",
+   "definition": "Runs as an app on a phone or tablet.",
+   "code": {
+    "include": "iOS, iPadOS or Android app.",
+    "exclude": "Mobile web only (coded web service)."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM10",
+   "version": "TM10",
+   "term": "free or open-source",
+   "definition": "Available to the public at no cost at retrieval.",
+   "code": {
+    "include": "Free download or free web use, or published code.",
+    "exclude": "Paid-only or research descriptions without public access."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM17",
+   "version": "TM17",
+   "term": "price not stated",
+   "definition": "No price could be found in the dossier.",
+   "code": {
+    "include": "The dossier shows no price or pricing model.",
+    "exclude": "Any price or pricing model stated."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM14",
+   "version": "TM14",
+   "term": "one-time purchase",
+   "definition": "Sold for a single payment (a perpetual licence), possibly with paid upgrades.",
+   "code": {
+    "include": "A one-off price or perpetual licence is listed at retrieval.",
+    "exclude": "Subscription-only or free."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM7",
+   "version": "TM7",
+   "term": "unclear method",
+   "definition": "The sources do not say whether a trained model or rules produce the arrangement.",
+   "code": {
+    "include": "Marketed as 'AI' or 'intelligent' with no statement of how the arrangement is produced.",
+    "exclude": "Either ML method or rules method applies."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM19",
+   "version": "TM19",
+   "term": "web service",
+   "definition": "Used in a web browser or through an online API.",
+   "code": {
+    "include": "Browser-based app or online API.",
+    "exclude": "Desktop-only or plugin-only."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM5",
+   "version": "TM5",
+   "term": "ML method",
+   "definition": "The arrangement is produced by a model trained on data (machine learning, neural network, LLM).",
+   "code": {
+    "include": "The developer states that a trained model (machine learning, neural network, deep learning, LLM, 'AI model') generates the arrangement.",
+    "exclude": "'AI' used as a label without saying that a trained model produces the arrangement; such systems are coded unclear method."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM12",
+   "version": "TM12",
+   "term": "full-match arranger",
+   "definition": "A commercially available arranging system, not made by Syntonic Labs, that takes score input and uses an ML method to produce notated output for a user-chosen instrumentation.",
+   "code": {
+    "include": "The same system is coded commercially available, score input, ML method, notated output and user-chosen instrumentation.",
+    "exclude": "Any of the five missing, or the system is a Syntonic Labs product (Tempered)."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM8",
+   "version": "TM8",
+   "term": "interactive or real-time",
+   "definition": "The arrangement is regenerated in response to the user's choices or playing without an offline export-import cycle.",
+   "code": {
+    "include": "Arrangement updates live as the user plays, changes instruments or settings, within the same session.",
+    "exclude": "A one-off batch generation the user must re-run from scratch."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM20",
+   "version": "TM20",
+   "term": "DAW plugin",
+   "definition": "Runs inside a digital audio workstation (VST, AU, AAX, MIDI effect).",
+   "code": {
+    "include": "Offered in a DAW plugin format.",
+    "exclude": "Notation-app plugins; standalone apps only."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM11",
+   "version": "TM11",
+   "term": "research prototype",
+   "definition": "Described in a research publication (paper, preprint, thesis) rather than offered as a product.",
+   "code": {
+    "include": "The source is a paper, preprint or thesis describing the system.",
+    "exclude": "A product whose maker also published a paper is coded by its availability as a product."
+   },
+   "broader": []
+  },
+  {
+   "id": "TM23",
+   "version": "TM23",
+   "term": "code or model only",
+   "definition": "Available only as source code, a library or model weights, with no packaged application.",
+   "code": {
+    "include": "Published code, library or weights only.",
+    "exclude": "Any packaged application, plugin or web service."
+   },
+   "broader": []
+  }
+ ],
+ "sources": [
+  {
+   "uri": "https://www.avid.com/sibelius/music-arranging",
+   "title": "Dossier: Sibelius Arrange (Avid Sibelius)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR1"
+  },
+  {
+   "uri": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html",
+   "title": "Dossier: Dorico Explode (Steinberg Dorico)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR2"
+  },
+  {
+   "uri": "https://musescore.org/en/node/291410",
+   "title": "Dossier: MuseScore Explode/Implode tools",
+   "retrieved_at": "2026-11-19",
+   "id": "SR3"
+  },
+  {
+   "uri": "https://musescore.org/project/arrange-parts",
+   "title": "Dossier: MuseScore Arrange Parts plugin",
+   "retrieved_at": "2026-11-19",
+   "id": "SR4"
+  },
+  {
+   "uri": "https://www.finalemusic.com/?p=5036",
+   "title": "Dossier: Finale Explode Music (MakeMusic Finale)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR5"
+  },
+  {
+   "uri": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro",
+   "title": "Dossier: capella audio2score pro",
+   "retrieved_at": "2026-11-19",
+   "id": "SR6"
+  },
+  {
+   "uri": "https://www.songscription.ai/piano-arrangement-generator",
+   "title": "Dossier: Songscription piano arrangement",
+   "retrieved_at": "2026-11-19",
+   "id": "SR7"
+  },
+  {
+   "uri": "https://klang.io/?p=38689",
+   "title": "Dossier: Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR8"
+  },
+  {
+   "uri": "https://www.producthunt.com/products/virtuoso-2/launches",
+   "title": "Dossier: Virtuoso (AI sheet music generator)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR9"
+  },
+  {
+   "uri": "https://musescore.org/en/project/aihud-notation-copilot",
+   "title": "Dossier: AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR10"
+  },
+  {
+   "uri": "https://www.pgmusic.com/bbmac.features.htm",
+   "title": "Dossier: Band-in-a-Box (PG Music)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR11"
+  },
+  {
+   "uri": "https://www.kvraudio.com/product/varranger-by-varranger",
+   "title": "Dossier: vArranger",
+   "retrieved_at": "2026-11-19",
+   "id": "SR12"
+  },
+  {
+   "uri": "https://www.kvraudio.com/product/rechord-by-rechord",
+   "title": "Dossier: ReChord",
+   "retrieved_at": "2026-11-19",
+   "id": "SR13"
+  },
+  {
+   "uri": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get",
+   "title": "Dossier: Chord Dock (Arranger Mode), k2get",
+   "retrieved_at": "2026-11-19",
+   "id": "SR14"
+  },
+  {
+   "uri": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news",
+   "title": "Dossier: Groovyband Live!",
+   "retrieved_at": "2026-11-19",
+   "id": "SR15"
+  },
+  {
+   "uri": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio",
+   "title": "Dossier: Scale Rider (Interloud Audio)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR16"
+  },
+  {
+   "uri": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu",
+   "title": "Dossier: nimbu",
+   "retrieved_at": "2026-11-19",
+   "id": "SR17"
+  },
+  {
+   "uri": "https://mixedinkey.com/captain-plugins/",
+   "title": "Dossier: Captain Plugins (Mixed In Key)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR18"
+  },
+  {
+   "uri": "https://www.imagine.art/music-studio/sheet-music-generator",
+   "title": "Dossier: ImagineArt AI Sheet Music Generator",
+   "retrieved_at": "2026-11-19",
+   "id": "SR19"
+  },
+  {
+   "uri": "https://www.arxiv.org/pdf/2107.05916v1",
+   "title": "Dossier: Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR20"
+  },
+  {
+   "uri": "https://arxiv.org/pdf/2205.05448",
+   "title": "Dossier: SymphonyNet (Liu et al. 2022)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR21"
+  },
+  {
+   "uri": "https://arxiv.org/pdf/1609.01203v1",
+   "title": "Dossier: Live Orchestral Piano (Crestel and Esling)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR22"
+  },
+  {
+   "uri": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf",
+   "title": "Dossier: Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR23"
+  },
+  {
+   "uri": "https://arxiv.org/html/2408.15176v5",
+   "title": "Dossier: Unified symbolic music arrangement (Ou et al. 2024-25)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR24"
+  },
+  {
+   "uri": "https://arxiv.org/html/2310.16334v4",
+   "title": "Dossier: Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR25"
+  },
+  {
+   "uri": "https://arxiv.org/pdf/2112.15110",
+   "title": "Dossier: Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR26"
+  },
+  {
+   "uri": "https://arxiv.org/abs/1807.11161v1",
+   "title": "Dossier: Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR27"
+  },
+  {
+   "uri": "https://arxiv.org/abs/1905.13567v1",
+   "title": "Dossier: Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR28"
+  },
+  {
+   "uri": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf",
+   "title": "Dossier: Audio-based piano reduction score (Takamori et al. 2019)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR29"
+  },
+  {
+   "uri": "https://arxiv.org/html/2512.21324v1",
+   "title": "Dossier: Piano reduction with BERT (Wong et al. 2025)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR30"
+  },
+  {
+   "uri": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf",
+   "title": "Dossier: Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR31"
+  },
+  {
+   "uri": "https://ar5iv.arxiv.org/html/1808.05006",
+   "title": "Dossier: Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR32"
+  },
+  {
+   "uri": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf",
+   "title": "Dossier: Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR33"
+  },
+  {
+   "uri": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and",
+   "title": "Dossier: Difficulty-aware neural band-to-piano score arrangement (2022)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR34"
+  },
+  {
+   "uri": "https://zenodo.org/records/10113103",
+   "title": "Dossier: Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR35"
+  },
+  {
+   "uri": "https://abstracts.societyforscience.org/Home/PrintPdf/16858",
+   "title": "Dossier: Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+   "retrieved_at": "2026-11-19",
+   "id": "SR36"
+  }
+ ],
+ "codings": [
+  {
+   "id": "CD1",
+   "root": "CD1",
+   "source": "SR1",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM4",
+    "TM6",
+    "TM9",
+    "TM15",
+    "TM16",
+    "TM18",
+    "TM21",
+    "TM22"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM4": "TM4",
+    "TM6": "TM6",
+    "TM9": "TM9",
+    "TM15": "TM15",
+    "TM16": "TM16",
+    "TM18": "TM18",
+    "TM21": "TM21",
+    "TM22": "TM22"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:38Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Arrange styles/templates (rules); runs on a score inside Sibelius; Sibelius First free, paid plans; desktop and mobile. Not coded interactive: Arrange is a one-off command."
+  },
+  {
+   "id": "CD2",
+   "root": "CD2",
+   "source": "SR2",
+   "codes": [
+    "TM2",
+    "TM4",
+    "TM6",
+    "TM9",
+    "TM16",
+    "TM18",
+    "TM21",
+    "TM22"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM4": "TM4",
+    "TM6": "TM6",
+    "TM9": "TM9",
+    "TM16": "TM16",
+    "TM18": "TM18",
+    "TM21": "TM21",
+    "TM22": "TM22"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:41Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Paste Special > Explode distributes music to more instruments; a fixed procedure, coded rules; destination choice not stated; free SE and paid editions, free iPad version."
+  },
+  {
+   "id": "CD3",
+   "root": "CD3",
+   "source": "SR3",
+   "codes": [
+    "TM2",
+    "TM4",
+    "TM6",
+    "TM10",
+    "TM16",
+    "TM21"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM4": "TM4",
+    "TM6": "TM6",
+    "TM10": "TM10",
+    "TM16": "TM16",
+    "TM21": "TM21"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:43Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Simple explode of chords onto staves with no intelligence (rules); MuseScore Studio free."
+  },
+  {
+   "id": "CD4",
+   "root": "CD4",
+   "source": "SR4",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM4",
+    "TM6",
+    "TM17",
+    "TM21"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM4": "TM4",
+    "TM6": "TM6",
+    "TM17": "TM17",
+    "TM21": "TM21"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:46Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Rules from Rimsky-Korsakov, random choice; two ensembles (orchestra, big band); price/licence not stated, so no availability code; MuseScore 1.x."
+  },
+  {
+   "id": "CD5",
+   "root": "CD5",
+   "source": "SR5",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM4",
+    "TM6",
+    "TM17",
+    "TM21"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM4": "TM4",
+    "TM6": "TM6",
+    "TM17": "TM17",
+    "TM21": "TM21"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:48Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "User sets number of staves, clefs, existing staves; rules; Finale discontinued, so no availability code."
+  },
+  {
+   "id": "CD6",
+   "root": "CD6",
+   "source": "SR6",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM6",
+    "TM9",
+    "TM14",
+    "TM15",
+    "TM18"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM6": "TM6",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM15": "TM15",
+    "TM18": "TM18"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:50Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Audio input only; AI for recognition but arrangement by holistic templates/presets, coded rules; desired instrumentation; one-time or subscription, $188; Windows and macOS."
+  },
+  {
+   "id": "CD7",
+   "root": "CD7",
+   "source": "SR7",
+   "codes": [
+    "TM2",
+    "TM4",
+    "TM7",
+    "TM9",
+    "TM16",
+    "TM19"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM4": "TM4",
+    "TM7": "TM7",
+    "TM9": "TM9",
+    "TM16": "TM16",
+    "TM19": "TM19"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:53Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Piano only; accepts MusicXML and MIDI uploads; 'Our AI technology' with no model stated; free start and paid plans; website."
+  },
+  {
+   "id": "CD8",
+   "root": "CD8",
+   "source": "SR8",
+   "codes": [
+    "TM2",
+    "TM7",
+    "TM9",
+    "TM16",
+    "TM19"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM7": "TM7",
+    "TM9": "TM9",
+    "TM16": "TM16",
+    "TM19": "TM19"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:55Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Piano arrangement from audio; 'AI-powered' with no model stated; free demo, upgrade; web."
+  },
+  {
+   "id": "CD9",
+   "root": "CD9",
+   "source": "SR9",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM5",
+    "TM17",
+    "TM19"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM5": "TM5",
+    "TM17": "TM17",
+    "TM19": "TM19"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:45:58Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "AI with tokenization schema (trained model implied); any instruments; input a song, not a score; availability and price not stated."
+  },
+  {
+   "id": "CD10",
+   "root": "CD10",
+   "source": "SR10",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM4",
+    "TM5",
+    "TM9",
+    "TM12",
+    "TM15",
+    "TM16",
+    "TM21"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM4": "TM4",
+    "TM5": "TM5",
+    "TM9": "TM9",
+    "TM12": "TM12",
+    "TM15": "TM15",
+    "TM16": "TM16",
+    "TM21": "TM21"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:00Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Exports the open score as MusicXML to a server AI model; writes notes for a section the user names (e.g. horn section); paid plans and free edits; MuseScore plugin. Meets all five full-match criteria."
+  },
+  {
+   "id": "CD11",
+   "root": "CD11",
+   "source": "SR11",
+   "codes": [
+    "TM2",
+    "TM6",
+    "TM9",
+    "TM17",
+    "TM18"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM6": "TM6",
+    "TM9": "TM9",
+    "TM17": "TM17",
+    "TM18": "TM18"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:02Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Styles with RealTracks (rules); chord symbols input; printed sheet music; style fixes the band; purchase implied (money-back guarantee), price not stated."
+  },
+  {
+   "id": "CD12",
+   "root": "CD12",
+   "source": "SR12",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM18"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM18": "TM18"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:05Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Real-time style-based arranger (style files); MIDI out, no notation; 349 EUR; Windows."
+  },
+  {
+   "id": "CD13",
+   "root": "CD13",
+   "source": "SR13",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM20"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM20": "TM20"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:07Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "User patterns become styles transposed to chords in real time; MIDI; $59; VST3."
+  },
+  {
+   "id": "CD14",
+   "root": "CD14",
+   "source": "SR14",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM16",
+    "TM20"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM16": "TM16",
+    "TM20": "TM20"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:09Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Arranger Mode patterns by chord roles; pads launch sections live; Lite free, Extended $29; VST3/AU."
+  },
+  {
+   "id": "CD15",
+   "root": "CD15",
+   "source": "SR15",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM16",
+    "TM18"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM16": "TM16",
+    "TM18": "TM18"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:12Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Real-time style arranger; MIDI stream; from 199 EUR; free demo that never expires; Windows."
+  },
+  {
+   "id": "CD16",
+   "root": "CD16",
+   "source": "SR16",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM20"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM20": "TM20"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:14Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Arranger re-tuning mechanism for MIDI phrases; $15; VST3 Windows."
+  },
+  {
+   "id": "CD17",
+   "root": "CD17",
+   "source": "SR17",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM18"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM18": "TM18"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:16Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Real-time arranger with styles and chord scales; 99 EUR pay once; Windows."
+  },
+  {
+   "id": "CD18",
+   "root": "CD18",
+   "source": "SR18",
+   "codes": [
+    "TM6",
+    "TM8",
+    "TM9",
+    "TM14",
+    "TM20"
+   ],
+   "code_versions": {
+    "TM6": "TM6",
+    "TM8": "TM8",
+    "TM9": "TM9",
+    "TM14": "TM14",
+    "TM20": "TM20"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:19Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Parts follow the chord progression by fixed movement options (rules); changes propagate live; $79; VST/AU."
+  },
+  {
+   "id": "CD19",
+   "root": "CD19",
+   "source": "SR19",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM7",
+    "TM9",
+    "TM16",
+    "TM19"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM7": "TM7",
+    "TM9": "TM9",
+    "TM16": "TM16",
+    "TM19": "TM19"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:21Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Melody via text, MIDI or humming arranged for chosen instruments; 'advanced AI' with no model stated; pricing page and free try; browser."
+  },
+  {
+   "id": "CD20",
+   "root": "CD20",
+   "source": "SR20",
+   "codes": [
+    "TM5",
+    "TM8",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM8": "TM8",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:23Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Neural part separation; online variants for real-time; instruments fixed by dataset; code public."
+  },
+  {
+   "id": "CD21",
+   "root": "CD21",
+   "source": "SR21",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:26Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Transformer; instruments inferred by the model; code public."
+  },
+  {
+   "id": "CD22",
+   "root": "CD22",
+   "source": "SR22",
+   "codes": [
+    "TM2",
+    "TM5",
+    "TM8",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM5": "TM5",
+    "TM8": "TM8",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:28Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "cRBM trained on excerpts; live keyboard input; score shown on screen; no code."
+  },
+  {
+   "id": "CD23",
+   "root": "CD23",
+   "source": "SR23",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM4",
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM4": "TM4",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:30Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Piano score in, notated wind band score out, user-chosen subset of 43 parts; U-Net; demo only."
+  },
+  {
+   "id": "CD24",
+   "root": "CD24",
+   "source": "SR24",
+   "codes": [
+    "TM3",
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM3": "TM3",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:32Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Transformer; users choose instruments for band arrangement; MIDI tokens; code not yet released."
+  },
+  {
+   "id": "CD25",
+   "root": "CD25",
+   "source": "SR25",
+   "codes": [
+    "TM2",
+    "TM3",
+    "TM5",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM3": "TM3",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:35Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Lead sheet (ABC) in; multi-track score shown in staff notation; users choose instruments; code public."
+  },
+  {
+   "id": "CD26",
+   "root": "CD26",
+   "source": "SR26",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:37Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Audio in, piano MIDI out; neural; code public."
+  },
+  {
+   "id": "CD27",
+   "root": "CD27",
+   "source": "SR27",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:39Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Conditional GAN; formats and instrument choice not stated."
+  },
+  {
+   "id": "CD28",
+   "root": "CD28",
+   "source": "SR28",
+   "codes": [
+    "TM2",
+    "TM5",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:42Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Audio in, predicted score out; neural; code public."
+  },
+  {
+   "id": "CD29",
+   "root": "CD29",
+   "source": "SR29",
+   "codes": [
+    "TM2",
+    "TM6",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM6": "TM6",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:44Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Statistical and rule-based selection; piano score from audio."
+  },
+  {
+   "id": "CD30",
+   "root": "CD30",
+   "source": "SR30",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:46Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "MidiBERT; MIDI in and out; piano only; code public."
+  },
+  {
+   "id": "CD31",
+   "root": "CD31",
+   "source": "SR31",
+   "codes": [
+    "TM2",
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:49Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Merged-output HMM (statistical, trained); notation figures; piano only."
+  },
+  {
+   "id": "CD32",
+   "root": "CD32",
+   "source": "SR32",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:51Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Statistical models; scores typeset manually; difficulty set by user; piano only."
+  },
+  {
+   "id": "CD33",
+   "root": "CD33",
+   "source": "SR33",
+   "codes": [
+    "TM2",
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:54Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "SVM classification and phrase selection; MIDI in, sheet music shown; piano only."
+  },
+  {
+   "id": "CD34",
+   "root": "CD34",
+   "source": "SR34",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:56Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Title and keywords only: neural (deep learning), band to piano."
+  },
+  {
+   "id": "CD35",
+   "root": "CD35",
+   "source": "SR35",
+   "codes": [
+    "TM4",
+    "TM6",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM4": "TM4",
+    "TM6": "TM6",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:46:58Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "Algorithm (transposition, permutation, backtracking); Python code processes MusicXML; instrument choice not stated."
+  },
+  {
+   "id": "CD36",
+   "root": "CD36",
+   "source": "SR36",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC1",
+   "at": "2026-11-19T20:47:00Z",
+   "unit": "dossier",
+   "pass": "1",
+   "memo": "LSTM writes drum and bass parts for a guitar part; student project."
+  },
+  {
+   "id": "AC3.CD1",
+   "root": "AC3.CD1",
+   "source": "SR7",
+   "codes": [
+    "TM2",
+    "TM4",
+    "TM7",
+    "TM9",
+    "TM16",
+    "TM19"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM4": "TM4",
+    "TM7": "TM7",
+    "TM9": "TM9",
+    "TM16": "TM16",
+    "TM19": "TM19"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:22Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Accepts MusicXML/PDF scores and exports PDF/MusicXML notation, but solo piano only, method only labelled 'AI technology', freemium web service with paid plans."
+  },
+  {
+   "id": "AC3.CD2",
+   "root": "AC3.CD2",
+   "source": "SR8",
+   "codes": [
+    "TM2",
+    "TM7",
+    "TM9",
+    "TM17",
+    "TM19"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM7": "TM7",
+    "TM9": "TM9",
+    "TM17": "TM17",
+    "TM19": "TM19"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:24Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Audio-input web tools exporting PDF/MusicXML piano arrangements, method only 'AI-powered', paid upgrade with only a 20-second demo and no price or plan model stated."
+  },
+  {
+   "id": "AC3.CD3",
+   "root": "AC3.CD3",
+   "source": "SR20",
+   "codes": [
+    "TM5",
+    "TM8",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM8": "TM8",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:26Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Research paper on neural part separation with dataset-fixed ensembles, part-label output, online real-time variants, and public code only."
+  },
+  {
+   "id": "AC3.CD4",
+   "root": "AC3.CD4",
+   "source": "SR21",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17",
+    "TM23"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17",
+    "TM23": "TM23"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:28Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Research Transformer for symphonic MIDI generation with model-chosen instruments, no notation output, code published only."
+  },
+  {
+   "id": "AC3.CD5",
+   "root": "AC3.CD5",
+   "source": "SR29",
+   "codes": [
+    "TM2",
+    "TM6",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM6": "TM6",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:30Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Research paper producing piano reduction scores from audio using statistical and rule-based (non-neural) methods, piano only, no public code."
+  },
+  {
+   "id": "AC3.CD6",
+   "root": "AC3.CD6",
+   "source": "SR31",
+   "codes": [
+    "TM2",
+    "TM6",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM6": "TM6",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:32Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Research paper reducing ensemble scores to piano notation via HMM with Viterbi search, no trained model stated, input format unspecified, no code."
+  },
+  {
+   "id": "AC3.CD7",
+   "root": "AC3.CD7",
+   "source": "SR33",
+   "codes": [
+    "TM2",
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM2": "TM2",
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:34Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Research prototype taking MIDI and producing piano-only reductions shown as sheet music, using an SVM classifier within the arrangement pipeline."
+  },
+  {
+   "id": "AC3.CD8",
+   "root": "AC3.CD8",
+   "source": "SR34",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:36Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Paper snippet describing a deep-learning band-to-piano arrangement with no stated notation output, input format, or availability."
+  },
+  {
+   "id": "AC3.CD9",
+   "root": "AC3.CD9",
+   "source": "SR36",
+   "codes": [
+    "TM5",
+    "TM11",
+    "TM17"
+   ],
+   "code_versions": {
+    "TM5": "TM5",
+    "TM11": "TM11",
+    "TM17": "TM17"
+   },
+   "coder": "AC3",
+   "at": "2026-11-19T20:48:38Z",
+   "unit": "dossier",
+   "pass": "2",
+   "memo": "Student research abstract using an LSTM to generate fixed drum and bass parts from guitar notes, no output formats, code or product."
+  }
+ ]
+}
