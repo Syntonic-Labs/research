@@ -1,5 +1,5 @@
 {"framework": "qualitative",
- "parameters": {"sample": "Every result returned by the 15 fixed queries in claimset-code/score-arrangers-2026/queries.txt (WebSearch, standard mode, run once each on 2026-11-19/20), plus systems named in included roundup pages (one level of snowballing); each included system captured as one dossier source (its pages' text) and coded once; no stopping before all results are screened",
+ "parameters": {"sample": "Every result returned by the 20 fixed queries in claimset-code/score-arrangers-2026/queries.txt (WebSearch, standard mode, run once each on 2026-11-19/20), plus systems named in included roundup pages (one level of snowballing); each included system captured as one dossier source (its pages' text) and coded once; no stopping before all results are screened",
                 "unit": "one arranging system = one dossier source"},
  "quantities": {"n": {"count": {"codes": ["TM12"], "unit": "source"}},
                 "n_all": {"count": {"codes": ["TM9", "TM4", "TM5", "TM2", "TM3"], "match": "all", "unit": "source"}}},
