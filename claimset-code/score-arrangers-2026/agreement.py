@@ -30,7 +30,7 @@ def main():
     name = {c["id"]: c["term"] for c in snap["codes"]}
     has = {1: defaultdict(set), 2: defaultdict(set)}
     for row in snap["codings"]:
-        p = row.get("pass", 1)
+        p = int(str(row.get("pass", 1)))
         if p in has:
             has[p][row["source"]].update(name.get(c, c) for c in row["codes"])
     both = sorted(set(has[1]) & set(has[2]))

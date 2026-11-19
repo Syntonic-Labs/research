@@ -24,7 +24,7 @@ def main():
     name = {c["id"]: c["term"] for c in snap["codes"]}
     has = defaultdict(set)
     for row in snap["codings"]:
-        if row.get("pass", 1) != 1:
+        if str(row.get("pass", 1)) != "1":
             continue
         has[row["source"]]  # every coded source is a system, even with no code
         for c in row["codes"]:
