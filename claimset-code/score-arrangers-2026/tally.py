@@ -11,6 +11,9 @@ from collections import defaultdict
 
 METHODS = ["ML method", "rules method", "unclear method"]
 AVAIL = ["commercially available", "free or open-source", "research prototype"]
+PRICING = ["one-time purchase", "subscription", "free tier", "price not stated"]
+PLATFORMS = ["desktop application", "web service", "DAW plugin", "notation-app plugin or feature", "mobile app",
+             "code or model only"]
 
 
 def main():
@@ -36,6 +39,16 @@ def main():
             out.append({"variable": "systems by method and availability",
                         "value": sum(m in s and a in s for s in systems),
                         "conditions": {"method": m, "availability": a}})
+    for pl in PLATFORMS:
+        for m in METHODS:
+            out.append({"variable": "systems by platform and method",
+                        "value": sum(pl in s and m in s for s in systems),
+                        "conditions": {"platform": pl, "method": m}})
+    for pr in PRICING:
+        for m in METHODS:
+            out.append({"variable": "systems by pricing and method",
+                        "value": sum(pr in s and m in s for s in systems),
+                        "conditions": {"pricing": pr, "method": m}})
     target = [s for s in systems if "notated output" in s and "user-chosen instrumentation" in s]
     for inp in ("score input", "other input"):
         for m in METHODS:
