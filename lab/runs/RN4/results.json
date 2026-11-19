@@ -1,0 +1,22 @@
+[
+ {
+  "variable": "dossiers coded by both coders",
+  "value": 0
+ },
+ {
+  "variable": "systems without exactly one code of a group",
+  "value": 0,
+  "conditions": {
+   "group": "method",
+   "pass": 2
+  }
+ },
+ {
+  "variable": "systems without exactly one code of a group",
+  "value": 0,
+  "conditions": {
+   "group": "availability",
+   "pass": 2
+  }
+ }
+]
