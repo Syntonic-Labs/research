@@ -1,0 +1,316 @@
+[
+ {
+  "variable": "dossiers coded by both coders",
+  "value": 9
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "DAW plugin"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "DAW plugin"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 0.779221,
+  "conditions": {
+   "code": "ML method"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 0.8888888888888888,
+  "conditions": {
+   "code": "ML method"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "code or model only"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "code or model only"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "commercially available"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "commercially available"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "desktop application"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "desktop application"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "free or open-source"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "free or open-source"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 0.622222,
+  "conditions": {
+   "code": "free tier"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 0.8888888888888888,
+  "conditions": {
+   "code": "free tier"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "full-match arranger"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "full-match arranger"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "interactive or real-time"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "interactive or real-time"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "mobile app"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "mobile app"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "notated output"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "notated output"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "notation-app plugin or feature"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "notation-app plugin or feature"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "one-time purchase"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "one-time purchase"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 0.622222,
+  "conditions": {
+   "code": "price not stated"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 0.8888888888888888,
+  "conditions": {
+   "code": "price not stated"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "research prototype"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "research prototype"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 0.622222,
+  "conditions": {
+   "code": "rules method"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 0.8888888888888888,
+  "conditions": {
+   "code": "rules method"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "score input"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "score input"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "subscription"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "subscription"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "unclear method"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "unclear method"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "user-chosen instrumentation"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "user-chosen instrumentation"
+  }
+ },
+ {
+  "variable": "Krippendorff alpha",
+  "value": 1.0,
+  "conditions": {
+   "code": "web service"
+  }
+ },
+ {
+  "variable": "share of dossiers agreed",
+  "value": 1.0,
+  "conditions": {
+   "code": "web service"
+  }
+ },
+ {
+  "variable": "systems without exactly one code of a group",
+  "value": 0,
+  "conditions": {
+   "group": "method",
+   "pass": 2
+  }
+ },
+ {
+  "variable": "systems without exactly one code of a group",
+  "value": 0,
+  "conditions": {
+   "group": "availability",
+   "pass": 2
+  }
+ }
+]
