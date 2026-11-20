@@ -1,8 +1,10 @@
 CLAIMSET Software and services for arranging music into notated scores for chosen instruments (2026)
-licence CC-BY-4.0; contributions C1, C3; highlights C1, C3
+licence CC-BY-4.0; contributions C1, C2; highlights C1, C2
 declarations funding: Syntonic Labs (self-funded) | competing interests: The guarantor, Ivan Svetunkov, founded Syntonic Labs, which develops Tempered Arranger, a machine-learning arranging product in the market this study scans; Syntonic Labs products were excluded from the scan.
 extensions qualitative 0.1, review 0.1 [review: protocol {"question": "As of November 2026, which software products, online services and research systems can automatically or semi-automatically arrange existing music into a notated score that musicians read, for a set of instruments the user chooses; and for each, what input it takes, what notation it outputs, whether it uses machine learning or rules, and whether it works interactively or in real time?", "sources": ["WebSearch (Claude's web search tool, standard mode)"], "include": ["An arranging system (TM1): software product, online service or research system that automatically or semi-automatically produces instrumental parts from existing musical material", "Arranges for more than one instrument, or offers a choice of instrument, or produces notation (so the codebook can apply)", "Public information about it is available at retrieval (product page, documentation, paper or forum account)"], "exclude": ["Human arranging services (people hired to arrange)", "Syntonic Labs products", "Audio-only generators that output finished audio with no parts (e.g. text-to-song)", "Pure transcription (audio to notation of the same parts) with no arranging", "Notation editors and DAWs without an arranging function", "Generators of a single line only (melody, chord progression or drum loop) with no arrangement across instruments", "Pages that name no system (general articles), except roundups and threads, which are used for snowballing"], "period": "available or published up to 2026-11-20", "lab_event": "PT1"}; searches [{"source": "WebSearch (Claude's web search tool, standard mode)", "query": "automatic music arrangement software notation", "date": "2026-11-19", "results": 14, "lab_event": "SE1"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "AI orchestration software MusicXML", "date": "2026-11-19", "results": 10, "lab_event": "SE2"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "auto arranger score for chosen instruments", "date": "2026-11-19", "results": 15, "lab_event": "SE3"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "AI music arranger sheet music", "date": "2026-11-19", "results": 17, "lab_event": "SE4"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "automatic orchestration plugin notation", "date": "2026-11-19", "results": 12, "lab_event": "SE5"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "AI arrange for ensemble sheet music", "date": "2026-11-19", "results": 19, "lab_event": "SE6"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "MusicXML arrangement tool", "date": "2026-11-19", "results": 24, "lab_event": "SE7"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "MuseScore plugin arrange for instruments", "date": "2026-11-19", "results": 17, "lab_event": "SE8"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "Sibelius Arrange feature alternative", "date": "2026-11-19", "results": 14, "lab_event": "SE9"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "Dorico orchestrate explode", "date": "2026-11-19", "results": 10, "lab_event": "SE10"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "AI choir arrangement generator", "date": "2026-11-19", "results": 16, "lab_event": "SE11"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "AI band arrangement sheet music generator", "date": "2026-11-19", "results": 19, "lab_event": "SE12"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "automatic orchestration deep learning symbolic music", "date": "2026-11-19", "results": 10, "lab_event": "SE13"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "automatic music arrangement neural network instruments", "date": "2026-11-19", "results": 10, "lab_event": "SE14"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "automatic piano reduction score", "date": "2026-11-19", "results": 18, "lab_event": "SE15"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "reddit automatic arrangement software sheet music", "date": "2026-11-19", "results": 18, "lab_event": "SE16"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "reddit AI orchestration notation software", "date": "2026-11-19", "results": 13, "lab_event": "SE17"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "KVR auto arranger notation", "date": "2026-11-19", "results": 14, "lab_event": "SE18"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "MuseScore forum automatic arrangement for instruments", "date": "2026-11-19", "results": 19, "lab_event": "SE19"}, {"source": "WebSearch (Claude's web search tool, standard mode)", "query": "Gearspace AI orchestration tool", "date": "2026-11-19", "results": 16, "lab_event": "SE20"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://musosoup.com/blog/ai-sheet-music-generator", "date": "2026-11-19", "results": 7, "lab_event": "SE21"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://gitnux.org/best/musical-arrangement-software/", "date": "2026-11-19", "results": 10, "lab_event": "SE22"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://wifitalents.com/best/musical-arrangement-software/", "date": "2026-11-19", "results": 10, "lab_event": "SE23"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://wifitalents.com/best/music-arranging-software/", "date": "2026-11-19", "results": 5, "lab_event": "SE24"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://www.songscription.ai/blog/best-ai-sheet-music-generators", "date": "2026-11-19", "results": 9, "lab_event": "SE25"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://www.piano-composer-teacher-london.co.uk/ai-music-tools/", "date": "2026-11-19", "results": 7, "lab_event": "SE26"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://www.audiocipher.com/post/ai-choir-generator", "date": "2026-11-19", "results": 5, "lab_event": "SE27"}, {"source": "snowballing (one level) from an included roundup, read with WebFetch", "query": "music software named on https://www.kvraudio.com/plugins/arranger-auto-accompaniment-composer-tools", "date": "2026-11-19", "results": 3, "lab_event": "SE28"}]; flow {"identified": 361, "screened": 328, "excluded_screening": 208, "assessed": 139, "excluded_full_text": {"duplicate: another page about Virtuoso, which is assessed once through its dossier": 4, "duplicate: another page about capella audio2score, which is assessed once through its dossier": 2, "generates new music from text prompts (Text2Score); does not arrange existing material": 1, "roundup or listing used only for snowballing; names systems but is not itself a system": 9, "duplicate: another page about MuseScore Arrange Parts plugin, which is assessed once through its dossier": 2, "duplicate: another page about Klangio piano arrangement, which is assessed once through its dossier": 4, "duplicate: another page about Songscription piano arrangement, which is assessed once through its dossier": 4, "duplicate: another page about CMMR 2023 monophonic MusicXML arranger": 1, "duplicate: another page about Band-in-a-Box, which is assessed once through its dossier": 5, "'change instrumentation' is not described as automatic arranging; an editor feature": 1, "duplicate: another page about Sibelius Arrange, which is assessed once through its dossier": 13, "duplicate: another page about Dorico Explode, which is assessed once through its dossier": 11, "renders choir parts the user writes as AI singing audio; does not arrange or write parts": 1, "duplicate: another page about Structured multi-track accompaniment arrangement (Zhao et al.), which is assessed once through its dossier": 1, "duplicate: another page about Unified symbolic arrangement (Ou et al. 2024-25), which is assessed once through its dossier": 3, "duplicate: another page about SymphonyNet (Liu et al. 2022), which is assessed once through its dossier": 1, "duplicate: another page about Arranger (Dong et al. 2021, automatic instrumentation), which is assessed once through its dossier": 3, "duplicate: another page about Live Orchestral Piano (Crestel and Esling), which is assessed once through its dossier": 1, "duplicate: another page about Lead sheet arrangement by conditional GAN (Liu and Yang 2018), which is assessed once through its dossier": 1, "duplicate: another page about Instrumentation style transfer (Hung et al. 2019), which is assessed once through its dossier": 1, "duplicate: another page about Piano reduction with BERT (Wong et al. 2025), which is assessed once through its dossier": 6, "duplicate: another page about Audio-based piano reduction (Takamori et al. 2019), which is assessed once through its dossier": 2, "duplicate: another page about Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018), which is assessed once through its dossier": 2, "duplicate: another page about Score-reduction arrangement framework (Huang et al. 2012), which is assessed once through its dossier": 1, "duplicate: another page about vArranger, which is assessed once through its dossier": 2, "duplicate: another page about ReChord, which is assessed once through its dossier": 1, "duplicate: another page about Chord Dock (Arranger Mode), which is assessed once through its dossier": 2, "duplicate: another page about Groovyband Live!, which is assessed once through its dossier": 1, "duplicate: another page about MuseScore Explode/Implode tools, which is assessed once through its dossier": 3, "duplicate: another page about Finale Explode Music, which is assessed once through its dossier": 2, "duplicate: another page about Captain Plugins, which is assessed once through its dossier": 4, "duplicate: another page about ACE Studio Choir Mode": 2, "duplicate: another page about Scale Rider, which is assessed once through its dossier": 2, "chord progression generator and player for one keys part; no arrangement across instruments": 1, "duplicate: another page about nimbu, which is assessed once through its dossier": 2}, "included": 37, "other_sources": 6}]
 exploration 1 question; hypotheses 1: 1 not supported, 1 from exploration; tests 1: 1 not supported; runs 6: 5 confirmatory, 1 exploratory; lab record A38
+not claimed (1 planned tests that give no claim):
+  - PL2's planned counts and coder agreement for the 36 systems: void, a script bug gave zeros; repeated by PL3 (C2). (defective into C2; runs RN3, RN4; lab Q1 under PL2)
 
 DEFINITIONS
 D1 [entity] arranging system: A software product, online service or research system that, from existing musical material (a melody, chords, a score or a performance), automatically or semi-automatically produces parts for instruments: by orchestrating, harmonising, voicing, exploding or reducing. The unit of analysis: one system, counted once across versions and editions.
@@ -30,148 +32,34 @@ D22 [concept] mobile app: Runs as an app on a phone or tablet. [qualitative: cod
 D23 [concept] code or model only: Available only as source code, a library or model weights, with no packaged application. [qualitative: code {"include": "Published code, library or weights only.", "exclude": "Any packaged application, plugin or web service."}]
 
 CLAIMS
-C1 [descriptive; principal; support: empirical_qual E1 (E1.R1, E1.R2); planning confirmatory; outcome not_supported] [qualitative: counts {"n": {"codes": ["D12"], "unit": "source"}, "n_all": {"codes": ["D9", "D4", "D5", "D2", "D3"], "match": "all", "unit": "source"}}]
+C1 [descriptive; principal; support: empirical_qual E1 (E1.R1, E1.R2); limitations L3, L4; planning confirmatory; outcome not_supported] [qualitative: counts {"n": {"codes": ["D12"], "unit": "source"}, "n_all": {"codes": ["D9", "D4", "D5", "D2", "D3"], "match": "all", "unit": "source"}}]
   Among the 36 [[D1:arranging system]]s found by a [[D13:market scan]] of 20 fixed web queries with one level of snowballing (19 November 2026), one [[D9:commercially available]] system not made by Syntonic Labs, the MuseScore plugin AiHud Notation Copilot (renamed Scorehand), is a [[D12:full-match arranger]]: it takes [[D4:score input]] (the open score, sent as MusicXML), uses an [[D5:ML method]] (a server-side AI model) and writes [[D2:notated output]] for a section the user names ([[D3:user-chosen instrumentation]]); so the planned hypothesis that no such commercial system exists was not supported.
   scope: setting: software products, online services and research systems that arrange existing music for instruments | period: retrieved 19 November 2026 | data_type: developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets | population: arranging systems returned by 20 fixed web queries (WebSearch, standard mode) and one level of snowballing from included roundups | conditions: full-match criteria judged from each system's dossier by one coder | excludes: Syntonic Labs products; human arranging services; systems not returned by the 20 queries or the roundups they led to
   extends B38: Zhu (2023) surveys AI music generation tools, both research projects and commercial applications, and their functional features; it does not ask which take a notated score and write notated parts for instruments the user chooses.
   test: qualitative; sample Every result returned by the 20 fixed queries in claimset-code/score-arrangers-2026/queries.txt (WebSearch, standard mode, run once each on 2026-11-19/20), plus systems named in included roundup pages (one level of snowballing); each included system captured as one dossier source (its pages' text) and coded once; no stopping before all results are screened; unit one arranging system = one dossier source; supported if n == 0 and n_all == 0; not supported if n >= 1 or n_all >= 1; verdict computed
   plan: lab plan PL1; planned 2026-11-19T20:12:59Z; anchor git_remote
-C3 [descriptive; principal; support: empirical_qual E3 (E3.T1.r1, E3.T2.r1, E3.T2.r2, E3.T2.r3, E3.T2.r4, E3.T2.r5, E3.T2.r6, E3.T2.r7, E3.T2.r8, E3.T2.r9, E3.T2.r10, E3.T2.r11, E3.T2.r12, E3.T2.r13, E3.T2.r14, E3.T2.r15, E3.T2.r16, E3.T2.r17, E3.T2.r18, E3.T2.r19, E3.T2.r20, E3.T2.r21, E3.T3.r1, E3.T3.r2, E3.T3.r3, E3.T3.r4, E3.T3.r5, E3.T3.r6, E3.T3.r7, E3.T3.r8, E3.T3.r9, E3.T4.r1, E3.T4.r2, E3.T4.r3, E3.T4.r4, E3.T4.r5, E3.T4.r6, E3.T4.r7, E3.T4.r8, E3.T4.r9, E3.T4.r10, E3.T4.r11, E3.T4.r12, E3.T4.r13, E3.T4.r14, E3.T4.r15, E3.T4.r16, E3.T4.r17, E3.T4.r18, E3.T5.r1, E3.T5.r2, E3.T5.r3, E3.T5.r4, E3.T5.r5, E3.T5.r6, E3.T5.r7, E3.T5.r8, E3.T5.r9, E3.T5.r10, E3.T5.r11, E3.T5.r12, E3.T6.r1, E3.T6.r2, E3.T6.r3, E3.T6.r4, E3.T6.r5, E3.T6.r6); planning planned_estimate]
-  Of the 36 [[D1:arranging system]]s coded from a [[D13:market scan]] (19 November 2026), 19 give [[D2:notated output]], 10 a [[D3:user-chosen instrumentation]] and 9 take [[D4:score input]]; 17 use an [[D5:ML method]], 16 a [[D6:rules method]] and 3 an [[D7:unclear method]]; of the 15 [[D9:commercially available]] systems, 11 are rules-based, 3 unclear and 1 ML, while 15 of the 17 [[D11:research prototype]]s are ML; among systems with notated output for a user-chosen instrumentation, 2 take score input with an ML method (one commercial, one research), 3 take score input with rules, and 4 take other input (tables T1–T6 of evidence E3); on 9 dossiers coded independently by a second agent, Krippendorff's alpha was 1 for 17 codes and 0.62–0.78 for 4 (rules method, ML method, free tier, price not stated), each from one disagreement of 9 (tables T7–T8).
+C2 [descriptive; principal; support: empirical_qual E2 (E2.T1.r1, E2.T2.r1, E2.T2.r2, E2.T2.r3, E2.T2.r4, E2.T2.r5, E2.T2.r6, E2.T2.r7, E2.T2.r8, E2.T2.r9, E2.T2.r10, E2.T2.r11, E2.T2.r12, E2.T2.r13, E2.T2.r14, E2.T2.r15, E2.T2.r16, E2.T2.r17, E2.T2.r18, E2.T2.r19, E2.T2.r20, E2.T2.r21, E2.T3.r1, E2.T3.r2, E2.T3.r3, E2.T3.r4, E2.T3.r5, E2.T3.r6, E2.T3.r7, E2.T3.r8, E2.T3.r9, E2.T4.r1, E2.T4.r2, E2.T4.r3, E2.T4.r4, E2.T4.r5, E2.T4.r6, E2.T4.r7, E2.T4.r8, E2.T4.r9, E2.T4.r10, E2.T4.r11, E2.T4.r12, E2.T4.r13, E2.T4.r14, E2.T4.r15, E2.T4.r16, E2.T4.r17, E2.T4.r18, E2.T5.r1, E2.T5.r2, E2.T5.r3, E2.T5.r4, E2.T5.r5, E2.T5.r6, E2.T5.r7, E2.T5.r8, E2.T5.r9, E2.T5.r10, E2.T5.r11, E2.T5.r12, E2.T6.r1, E2.T6.r2, E2.T6.r3, E2.T6.r4, E2.T6.r5, E2.T6.r6); limitations L1, L2, L3, L4; planning planned_estimate]
+  Of the 36 [[D1:arranging system]]s coded from a [[D13:market scan]] (19 November 2026), 19 give [[D2:notated output]], 10 a [[D3:user-chosen instrumentation]] and 9 take [[D4:score input]]; 17 use an [[D5:ML method]], 16 a [[D6:rules method]] and 3 an [[D7:unclear method]]; of the 15 [[D9:commercially available]] systems, 11 are rules-based, 3 unclear and 1 ML, while 15 of the 17 [[D11:research prototype]]s are ML; among systems with notated output for a user-chosen instrumentation, 2 take score input with an ML method (one commercial, one research), 3 take score input with rules, and 4 take other input (tables T1–T6 of evidence E2); on 9 dossiers coded independently by a second agent, Krippendorff's alpha was 1 for 17 codes and 0.62–0.78 for 4 (rules method, ML method, free tier, price not stated), each from one disagreement of 9 (tables T7–T8).
   scope: setting: software products, online services and research systems that arrange existing music for instruments | period: retrieved 19 November 2026 | data_type: developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets | population: the 36 arranging systems included by the scan (19 products, 17 research systems) | conditions: counts of pass-1 codings by one agent; agreement on a random 25% sample (seed 2026) coded independently by a second agent | excludes: Syntonic Labs products; human arranging services; systems not returned by the 20 queries or the roundups they led to
   extends B39: Wang et al. (2024) review intelligent music generation systems, classing arrangement generation among their purposes and the systems by method (rule-based, Markov models, deep learning, evolutionary computation).
   extends B38: Zhu (2023) surveys AI music generation tools, including commercial applications, and lists their functional features, without counting arranging systems by notated output, score input, instrument choice or method.
   planned estimate: total = number of arranging systems (table: every value); by_code = systems with code (table: every value); method_avail = systems by method and availability (table: every value); platform = systems by platform and method (table: every value); pricing = systems by pricing and method (table: every value); target = notated chosen-instrument systems by input and method (table: every value); alpha = Krippendorff alpha (table: every value); agreed = share of dossiers agreed (table: every value)
   plan: lab plan PL3; planned 2026-11-19T21:00:27Z; anchor git_remote
-C2 [descriptive; supporting; support: empirical_qual E2 (E2.T1.r1, E2.T2.r1, E2.T2.r2, E2.T2.r3, E2.T2.r4, E2.T2.r5, E2.T2.r6, E2.T2.r7, E2.T2.r8, E2.T2.r9, E2.T2.r10, E2.T2.r11, E2.T2.r12, E2.T2.r13, E2.T2.r14, E2.T2.r15, E2.T2.r16, E2.T2.r17, E2.T2.r18, E2.T2.r19, E2.T2.r20, E2.T2.r21, E2.T3.r1, E2.T3.r2, E2.T3.r3, E2.T3.r4, E2.T3.r5, E2.T3.r6, E2.T3.r7, E2.T3.r8, E2.T3.r9, E2.T4.r1, E2.T4.r2, E2.T4.r3, E2.T4.r4, E2.T4.r5, E2.T4.r6, E2.T4.r7, E2.T4.r8, E2.T4.r9, E2.T4.r10, E2.T4.r11, E2.T4.r12, E2.T4.r13, E2.T4.r14, E2.T4.r15, E2.T4.r16, E2.T4.r17, E2.T4.r18, E2.T5.r1, E2.T5.r2, E2.T5.r3, E2.T5.r4, E2.T5.r5, E2.T5.r6, E2.T5.r7, E2.T5.r8, E2.T5.r9, E2.T5.r10, E2.T5.r11, E2.T5.r12, E2.T6.r1, E2.T6.r2, E2.T6.r3, E2.T6.r4, E2.T6.r5, E2.T6.r6); limitations L1, L2; planning planned_estimate]
-  Under plan PL2, the two planned runs returned 0 for every count of [[D1:arranging system]]s and computed no Krippendorff alpha or share of dossiers agreed, because both scripts compared the coding pass with an integer while the lab record stores it as text; these values are an artefact of that bug, not estimates, and plan PL3 re-ran the same analysis with the bug fixed (claim C3).
-  scope: setting: software products, online services and research systems that arrange existing music for instruments | period: retrieved 19 November 2026 | data_type: developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets | population: the same 36 arranging systems | conditions: runs RN3 and RN4 of plan PL2, before the scripts were fixed
-  planned estimate: total = number of arranging systems (table: every value); by_code = systems with code (table: every value); method_avail = systems by method and availability (table: every value); platform = systems by platform and method (table: every value); pricing = systems by pricing and method (table: every value); target = notated chosen-instrument systems by input and method (table: every value); alpha = Krippendorff alpha (table: every value) (not obtained); agreed = share of dossiers agreed (table: every value) (not obtained); flags code_changed_after_plan
-  plan: lab plan PL2; planned 2026-11-19T20:12:59Z; anchor git_remote
 
 EVIDENCE
 E1 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab runs RN2 under plan PL1. Design: Market scan (D13): run the 20 fixed queries in claimset-code/score-arrangers-2026/queries.txt once each (WebSearch, standard mode; 15 general and research queries, 5 aimed at Reddit, KVR, MuseScore and Gearspace forums), screen every result against the inclusion criteria, snowball one level from included roundups and forum threads, build one dossier per included system from its own pages (product page, pricing page, documentation, paper), capture it, and code it with the codebook D2-D12 and D14-D23 (pass 1, this agent). A second agent, registered before it starts and working in its own log, independently codes (pass 2) a 25% random sample of the dossiers (Python random.sample, seed 2026, over dossier IDs in capture order). Syntonic Labs products and human arranging services are excluded. Analysis: Count pass-1 dossiers coded full-match arranger (D12), and dossiers coded all five of commercially available, score input, ML method, notated output and user-chosen instrumentation; the two counts check each other. The verdict is computed by the tool's count over pass 1.
   setup: studied D1; cases D9; procedure D13; lens D12
   E1.R1 count: n = 1 {unit: source, distinct_by: source, code: D12}
   E1.R2 count: n_all = 1 {unit: source, distinct_by: source}
-E2 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab runs RN3, RN4 under plan PL2. Design: Market scan (D13): run the 20 fixed queries in claimset-code/score-arrangers-2026/queries.txt once each (WebSearch, standard mode; 15 general and research queries, 5 aimed at Reddit, KVR, MuseScore and Gearspace forums), screen every result against the inclusion criteria, snowball one level from included roundups and forum threads, build one dossier per included system from its own pages (product page, pricing page, documentation, paper), capture it, and code it with the codebook D2-D12 and D14-D23 (pass 1, this agent). A second agent, registered before it starts and working in its own log, independently codes (pass 2) a 25% random sample of the dossiers (Python random.sample, seed 2026, over dossier IDs in capture order). Syntonic Labs products and human arranging services are excluded. Analysis: Run 1: claimset-code/score-arrangers-2026/tally.py counts pass-1 systems: in total; with each code; by method and availability; by platform and method; by pricing and method; and, among systems with notated output for a user-chosen instrumentation, by input (score or other) and method; it also counts systems without exactly one method or availability code, as a check. Run 2: claimset-code/score-arrangers-2026/agreement.py gives, per code, Krippendorff's alpha (two coders, nominal) and the share of dossiers agreed, over the dossiers both coders coded.
+E2 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab runs RN5, RN6 under plan PL3. Design: Same market scan, dossiers SR1-SR36 and codings as PL2 (pass 1 by AC1 on all 36; pass 2 by AC3 on the 9 sampled dossiers SR7, SR8, SR20, SR21, SR29, SR31, SR33, SR34, SR36). Re-runs PL2's analysis with the scripts fixed after PL2's runs RN3 and RN4 counted nothing (deviations DV1, DV2). Analysis: Run 1: claimset-code/score-arrangers-2026/tally.py (fixed) counts pass-1 systems: total; with each code; by method and availability; by platform and method; by pricing and method; among notated chosen-instrument systems by input and method; and systems without exactly one method or availability code. Run 2: agreement.py (fixed) gives per code Krippendorff's alpha (two coders, nominal) and share of dossiers agreed over the dossiers both coders coded.
   setup: studied D1; procedure D13; lens D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23
-  E2.T1 number of arranging systems, dossiers coded by both coders (lab runs RN3, RN4)
-  | row | number of arranging systems | dossiers coded by both coders |
-  | r1 | 0 | 0 |
-  E2.T2 systems with code by code (lab runs RN3)
-  | row | code | systems with code |
-  | r1 | DAW plugin | 0 |
-  | r2 | ML method | 0 |
-  | r3 | code or model only | 0 |
-  | r4 | commercially available | 0 |
-  | r5 | desktop application | 0 |
-  | r6 | free or open-source | 0 |
-  | r7 | free tier | 0 |
-  | r8 | full-match arranger | 0 |
-  | r9 | interactive or real-time | 0 |
-  | r10 | mobile app | 0 |
-  | r11 | notated output | 0 |
-  | r12 | notation-app plugin or feature | 0 |
-  | r13 | one-time purchase | 0 |
-  | r14 | price not stated | 0 |
-  | r15 | research prototype | 0 |
-  | r16 | rules method | 0 |
-  | r17 | score input | 0 |
-  | r18 | subscription | 0 |
-  | r19 | unclear method | 0 |
-  | r20 | user-chosen instrumentation | 0 |
-  | r21 | web service | 0 |
-  E2.T3 systems by method and availability by method, availability (lab runs RN3)
-  | row | method | availability | systems by method and availability |
-  | r1 | ML method | commercially available | 0 |
-  | r2 | ML method | free or open-source | 0 |
-  | r3 | ML method | research prototype | 0 |
-  | r4 | rules method | commercially available | 0 |
-  | r5 | rules method | free or open-source | 0 |
-  | r6 | rules method | research prototype | 0 |
-  | r7 | unclear method | commercially available | 0 |
-  | r8 | unclear method | free or open-source | 0 |
-  | r9 | unclear method | research prototype | 0 |
-  E2.T4 systems by platform and method by platform, method (lab runs RN3)
-  | row | platform | method | systems by platform and method |
-  | r1 | desktop application | ML method | 0 |
-  | r2 | desktop application | rules method | 0 |
-  | r3 | desktop application | unclear method | 0 |
-  | r4 | web service | ML method | 0 |
-  | r5 | web service | rules method | 0 |
-  | r6 | web service | unclear method | 0 |
-  | r7 | DAW plugin | ML method | 0 |
-  | r8 | DAW plugin | rules method | 0 |
-  | r9 | DAW plugin | unclear method | 0 |
-  | r10 | notation-app plugin or feature | ML method | 0 |
-  | r11 | notation-app plugin or feature | rules method | 0 |
-  | r12 | notation-app plugin or feature | unclear method | 0 |
-  | r13 | mobile app | ML method | 0 |
-  | r14 | mobile app | rules method | 0 |
-  | r15 | mobile app | unclear method | 0 |
-  | r16 | code or model only | ML method | 0 |
-  | r17 | code or model only | rules method | 0 |
-  | r18 | code or model only | unclear method | 0 |
-  E2.T5 systems by pricing and method by pricing, method (lab runs RN3)
-  | row | pricing | method | systems by pricing and method |
-  | r1 | one-time purchase | ML method | 0 |
-  | r2 | one-time purchase | rules method | 0 |
-  | r3 | one-time purchase | unclear method | 0 |
-  | r4 | subscription | ML method | 0 |
-  | r5 | subscription | rules method | 0 |
-  | r6 | subscription | unclear method | 0 |
-  | r7 | free tier | ML method | 0 |
-  | r8 | free tier | rules method | 0 |
-  | r9 | free tier | unclear method | 0 |
-  | r10 | price not stated | ML method | 0 |
-  | r11 | price not stated | rules method | 0 |
-  | r12 | price not stated | unclear method | 0 |
-  E2.T6 notated chosen-instrument systems by input and method by input, method (lab runs RN3)
-  | row | input | method | notated chosen-instrument systems by input and method |
-  | r1 | score input | ML method | 0 |
-  | r2 | score input | rules method | 0 |
-  | r3 | score input | unclear method | 0 |
-  | r4 | other input | ML method | 0 |
-  | r5 | other input | rules method | 0 |
-  | r6 | other input | unclear method | 0 |
-  E2.T7 systems without exactly one code of a group by group (lab runs RN3)
-  | row | group | systems without exactly one code of a group |
-  | r1 | method | 0 |
-  | r2 | availability | 0 |
-  E2.T8 systems without exactly one code of a group by group; pass: 2 (lab runs RN4) {pass: 2}
-  | row | group | systems without exactly one code of a group |
-  | r1 | method | 0 |
-  | r2 | availability | 0 |
-E3 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab runs RN5, RN6 under plan PL3. Design: Same market scan, dossiers SR1-SR36 and codings as PL2 (pass 1 by AC1 on all 36; pass 2 by AC3 on the 9 sampled dossiers SR7, SR8, SR20, SR21, SR29, SR31, SR33, SR34, SR36). Re-runs PL2's analysis with the scripts fixed after PL2's runs RN3 and RN4 counted nothing (deviations DV1, DV2). Analysis: Run 1: claimset-code/score-arrangers-2026/tally.py (fixed) counts pass-1 systems: total; with each code; by method and availability; by platform and method; by pricing and method; among notated chosen-instrument systems by input and method; and systems without exactly one method or availability code. Run 2: agreement.py (fixed) gives per code Krippendorff's alpha (two coders, nominal) and share of dossiers agreed over the dossiers both coders coded.
-  setup: studied D1; procedure D13; lens D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23
-  E3.T1 number of arranging systems, dossiers coded by both coders (lab runs RN5, RN6)
+  E2.T1 number of arranging systems, dossiers coded by both coders (lab runs RN5, RN6)
   | row | number of arranging systems | dossiers coded by both coders |
   | r1 | 36 | 9 |
-  E3.T2 systems with code, Krippendorff alpha, share of dossiers agreed by code (lab runs RN5, RN6)
+  E2.T2 systems with code, Krippendorff alpha, share of dossiers agreed by code (lab runs RN5, RN6)
   | row | code | systems with code | Krippendorff alpha | share of dossiers agreed |
-  | r1 | DAW plugin | 4 | 1 | 1 |
-  | r2 | ML method | 17 | 0.779221 | 0.8888888888888888 |
-  | r3 | code or model only | 7 | 1 | 1 |
-  | r4 | commercially available | 15 | 1 | 1 |
-  | r5 | desktop application | 7 | 1 | 1 |
-  | r6 | free or open-source | 1 | 1 | 1 |
-  | r7 | free tier | 9 | 0.622222 | 0.8888888888888888 |
-  | r8 | full-match arranger | 1 | 1 | 1 |
-  | r9 | interactive or real-time | 9 | 1 | 1 |
-  | r10 | mobile app | 2 | 1 | 1 |
-  | r11 | notated output | 19 | 1 | 1 |
-  | r12 | notation-app plugin or feature | 6 | 1 | 1 |
-  | r13 | one-time purchase | 8 | 1 | 1 |
-  | r14 | price not stated | 21 | 0.622222 | 0.8888888888888888 |
-  | r15 | research prototype | 17 | 1 | 1 |
-  | r16 | rules method | 16 | 0.622222 | 0.8888888888888888 |
-  | r17 | score input | 9 | 1 | 1 |
-  | r18 | subscription | 3 | 1 | 1 |
-  | r19 | unclear method | 3 | 1 | 1 |
-  | r20 | user-chosen instrumentation | 10 | 1 | 1 |
-  | r21 | web service | 4 | 1 | 1 |
-  E3.T3 systems by method and availability by method, availability (lab runs RN5)
+  (21 rows, held in the file of artefact A39)
+  E2.T3 systems by method and availability by method, availability (lab runs RN5)
   | row | method | availability | systems by method and availability |
   | r1 | ML method | commercially available | 1 |
   | r2 | ML method | free or open-source | 0 |
@@ -182,7 +70,7 @@ E3 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab ru
   | r7 | unclear method | commercially available | 3 |
   | r8 | unclear method | free or open-source | 0 |
   | r9 | unclear method | research prototype | 0 |
-  E3.T4 systems by platform and method by platform, method (lab runs RN5)
+  E2.T4 systems by platform and method by platform, method (lab runs RN5)
   | row | platform | method | systems by platform and method |
   | r1 | desktop application | ML method | 0 |
   | r2 | desktop application | rules method | 7 |
@@ -202,7 +90,7 @@ E3 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab ru
   | r16 | code or model only | ML method | 6 |
   | r17 | code or model only | rules method | 1 |
   | r18 | code or model only | unclear method | 0 |
-  E3.T5 systems by pricing and method by pricing, method (lab runs RN5)
+  E2.T5 systems by pricing and method by pricing, method (lab runs RN5)
   | row | pricing | method | systems by pricing and method |
   | r1 | one-time purchase | ML method | 0 |
   | r2 | one-time purchase | rules method | 8 |
@@ -216,7 +104,7 @@ E3 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab ru
   | r10 | price not stated | ML method | 16 |
   | r11 | price not stated | rules method | 5 |
   | r12 | price not stated | unclear method | 0 |
-  E3.T6 notated chosen-instrument systems by input and method by input, method (lab runs RN5)
+  E2.T6 notated chosen-instrument systems by input and method by input, method (lab runs RN5)
   | row | input | method | notated chosen-instrument systems by input and method |
   | r1 | score input | ML method | 2 |
   | r2 | score input | rules method | 3 |
@@ -224,21 +112,20 @@ E3 [qual; analytic_approach content_analysis; n_participants_or_cases 36] Lab ru
   | r4 | other input | ML method | 2 |
   | r5 | other input | rules method | 1 |
   | r6 | other input | unclear method | 1 |
-  E3.T7 systems without exactly one code of a group by group (lab runs RN5)
+  E2.T7 systems without exactly one code of a group by group (lab runs RN5)
   | row | group | systems without exactly one code of a group |
   | r1 | method | 0 |
   | r2 | availability | 3 |
-  E3.T8 systems without exactly one code of a group by group; pass: 2 (lab runs RN6) {pass: 2}
+  E2.T8 systems without exactly one code of a group by group; pass: 2 (lab runs RN6) {pass: 2}
   | row | group | systems without exactly one code of a group |
   | r1 | method | 0 |
   | r2 | availability | 0 |
 
 LIMITATIONS
-L1 [analytic_flexibility; affects C2; could_bias_magnitude; mitigation none] Lab run RN3 deviated from plan PL2: tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. Reason: Bug in the analysis script found after the run; RN3's results are wrong and are not reported as estimates.
-L2 [analytic_flexibility; affects C2; could_bias_magnitude; mitigation none] Lab run RN4 deviated from plan PL2: agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. Reason: Same bug as RN3; alpha and share agreed were not obtained.
-L3 [analytic_flexibility; affects C3; could_bias_magnitude; mitigation none] Plan PL3 was written after the dossiers had been coded (it re-runs PL2's analysis after a bug fix), so the codings of its counts precede its plan; the codebook, the codings and the analysis are those fixed under PL2, unchanged.
-L4 [sampling; affects C1, C3; could_bias_magnitude; mitigation none] The scan covers only systems that 20 fixed web queries (and one level of snowballing) returned on 19 November 2026; products seen in an earlier ad-hoc search but not returned (Orb Composer, LANDR Composer, InstaComposer, Muse, RapidComposer, Texturium) are not in the counts, and a negative or positive count holds for this frame only.
-L5 [measurement; affects C1, C3; could_bias_magnitude; mitigation none] Dossiers were built from WebFetch renderings of each page by a language model and from search snippets, not from byte copies of the pages; a feature a page states could be missed or misrendered, and several dossiers (Dorico, Chord Dock, Finale, research papers) rest on snippets or summaries.
+L1 [deviation; affects C2; could_bias_magnitude; mitigation partial] Lab plan PL2 was made void (DC3): a defect made its runs (RN3, RN4) meaningless. DV1: tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. DV2: agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. This claim is from plan PL3, which repeats it with the same analysis, reworded (both texts are in the exploration summary), and decision rule on the same data. PL3 was planned after the void runs and before its own, so what the void runs showed could have shaped it. The void runs returned only zeros for every count and no agreement values; no coding or count of any system was visible in them, so they showed nothing that could have shaped PL3 beyond the bug itself.
+L2 [analytic_flexibility; affects C2; could_bias_magnitude; mitigation none] Plan PL3 was written after the dossiers had been coded (it re-runs PL2's analysis after a bug fix), so the codings of its counts precede its plan; the codebook, the codings and the analysis are those fixed under PL2, unchanged.
+L3 [sampling; affects C1, C2; could_bias_magnitude; mitigation none] The scan covers only systems that 20 fixed web queries (and one level of snowballing) returned on 19 November 2026; products seen in an earlier ad-hoc search but not returned (Orb Composer, LANDR Composer, InstaComposer, Muse, RapidComposer, Texturium) are not in the counts, and a negative or positive count holds for this frame only.
+L4 [measurement; affects C1, C2; could_bias_magnitude; mitigation none] Dossiers were built from WebFetch renderings of each page by a language model and from search snippets, not from byte copies of the pages; a feature a page states could be missed or misrendered, and several dossiers (Dorico, Chord Dock, Finale, research papers) rest on snippets or summaries.
 
 ARTEFACTS
 A1 [data] Dossier: Sibelius Arrange (Avid Sibelius) (text/plain), saved by hand on 2026-11-19; recorded in the lab record as SR1 on 2026-11-19. Written by others. One dossier per arranging system: the agent's transcription of WebFetch renderings and WebSearch snippets of the system's pages, with their URLs (see decision DC1).
@@ -278,7 +165,8 @@ A34 [data] Dossier: Difficulty-aware neural band-to-piano score arrangement (202
 A35 [data] Dossier: Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023) (text/plain), saved by hand on 2026-11-19; recorded in the lab record as SR35 on 2026-11-19. Written by others. One dossier per arranging system: the agent's transcription of WebFetch renderings and WebSearch snippets of the system's pages, with their URLs (see decision DC1).
 A36 [data] Dossier: Auto Arranger Based on Deep Learning Methods (student project, Shumnov) (text/plain), saved by hand on 2026-11-19; recorded in the lab record as SR36 on 2026-11-19. Written by others. One dossier per arranging system: the agent's transcription of WebFetch renderings and WebSearch snippets of the system's pages, with their URLs (see decision DC1).
 A37 [data] Every result of the lab record (190 results of 6 runs) at full precision: the lab result's ID, its run, the quantity as the run's script named it, its conditions and its value (both as JSON). The evidence's tables give the values to four significant digits.
-A38 [lab_record] Lab record of the study: questions, hypotheses, plans, runs, results and decisions, as an append-only, hash-chained event log (Claimset lab record specification v0.22, begun 2026-11-19; exported with claimset 0.44.6).
+A38 [lab_record] Lab record of the study: questions, hypotheses, plans, runs, results and decisions, as an append-only, hash-chained event log (Claimset lab record specification v0.22, begun 2026-11-19; exported with claimset 0.44.10).
+A39 [data] The 21 rows of table E2.T2: systems with code, Krippendorff alpha, share of dossiers agreed by code (lab runs RN5, RN6)
 
 REFERENCES
 B1 https://www.avid.com/sibelius/music-arranging (url)

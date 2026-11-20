@@ -4,7 +4,7 @@
   "title": "Software and services for arranging music into notated scores for chosen instruments (2026)",
   "contributions": [
    "C1",
-   "C3"
+   "C2"
   ],
   "autonomy": "human_supervised",
   "contribution_record": "complete",
@@ -33,7 +33,21 @@
     "confirmatory": 5,
     "exploratory": 1,
     "failed": 0
-   }
+   },
+   "not_claimed": [
+    {
+     "lab_event": "Q1",
+     "lab_plan": "PL2",
+     "because": "defective",
+     "into": "C2",
+     "runs": [
+      "RN3",
+      "RN4"
+     ],
+     "why": "tally.py and agreement.py compared the coding pass with integers while the record stores it as text, so PL2's runs RN3 and RN4 counted no coding and computed no agreement; their zeros say nothing about the systems. PL3 repeated the same estimands on the same codings with the scripts fixed; its analysis text says the same steps in other words. tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. The repeat words the analysis differently, as the person who confirmed the void read: PL2 planned \"Run 1: claimset-code/score-arrangers-2026/tally.py counts pass-1 systems: in total; with each code; by method and availability; by platform and method; by pricing and method; and, among systems with notated output for a user-chosen instrumentation, by input (score or other) and method; it also counts systems without exactly one method or availability code, as a check. Run 2: claimset-code/score-arrangers-2026/agreement.py gives, per code, Krippendorff's alpha (two coders, nominal) and the share of dossiers agreed, over the dossiers both coders coded.\"; PL3 planned \"Run 1: claimset-code/score-arrangers-2026/tally.py (fixed) counts pass-1 systems: total; with each code; by method and availability; by platform and method; by pricing and method; among notated chosen-instrument systems by input and method; and systems without exactly one method or availability code. Run 2: agreement.py (fixed) gives per code Krippendorff's alpha (two coders, nominal) and share of dossiers agreed over the dossiers both coders coded.\".",
+     "statement": "PL2's planned counts and coder agreement for the 36 systems: void, a script bug gave zeros; repeated by PL3 (C2)."
+    }
+   ]
   },
   "study": "score-arrangers-2026",
   "ext": {
@@ -306,6 +320,14 @@
    }
   },
   "licence": "CC-BY-4.0",
+  "declarations": {
+   "funding": [
+    {
+     "funder": "Syntonic Labs (self-funded)"
+    }
+   ],
+   "competing_interests": "The guarantor, Ivan Svetunkov, founded Syntonic Labs, which develops Tempered Arranger, a machine-learning arranging product in the market this study scans; Syntonic Labs products were excluded from the scan."
+  },
   "classification": {
    "keywords": [
     "automatic music arrangement",
@@ -320,22 +342,21 @@
   },
   "highlights": [
    "C1",
-   "C3"
-  ],
-  "declarations": {
-   "funding": [
-    {
-     "funder": "Syntonic Labs (self-funded)"
-    }
-   ],
-   "competing_interests": "The guarantor, Ivan Svetunkov, founded Syntonic Labs, which develops Tempered Arranger, a machine-learning arranging product in the market this study scans; Syntonic Labs products were excluded from the scan."
-  }
+   "C2"
+  ]
  },
  "contributors": [
   {
    "id": "P1",
    "type": "agent",
    "name": "Claude Code",
+   "credit_roles": [
+    "conceptualization",
+    "methodology",
+    "formal_analysis",
+    "data_curation",
+    "investigation"
+   ],
    "positions": [
     "author"
    ],
@@ -347,7 +368,7 @@
    ],
    "run_period": {
     "start": "2026-11-19",
-    "end": "2026-11-19"
+    "end": "2026-11-20"
    },
    "tools": [
     "code_execution"
@@ -376,6 +397,9 @@
    "id": "P3",
    "type": "agent",
    "name": "Claude Code",
+   "credit_roles": [
+    "investigation"
+   ],
    "positions": [
     "author"
    ],
@@ -811,13 +835,17 @@
      "reference": "B38",
      "note": "Zhu (2023) surveys AI music generation tools, both research projects and commercial applications, and their functional features; it does not ask which take a notated score and write notated parts for instruments the user chooses."
     }
+   ],
+   "limitations": [
+    "L3",
+    "L4"
    ]
   },
   {
    "id": "C2",
-   "statement": "Under plan PL2, the two planned runs returned 0 for every count of [[D1:arranging system]]s and computed no Krippendorff alpha or share of dossiers agreed, because both scripts compared the coding pass with an integer while the lab record stores it as text; these values are an artefact of that bug, not estimates, and plan PL3 re-ran the same analysis with the bug fixed (claim C3).",
+   "statement": "Of the 36 [[D1:arranging system]]s coded from a [[D13:market scan]] (19 November 2026), 19 give [[D2:notated output]], 10 a [[D3:user-chosen instrumentation]] and 9 take [[D4:score input]]; 17 use an [[D5:ML method]], 16 a [[D6:rules method]] and 3 an [[D7:unclear method]]; of the 15 [[D9:commercially available]] systems, 11 are rules-based, 3 unclear and 1 ML, while 15 of the 17 [[D11:research prototype]]s are ML; among systems with notated output for a user-chosen instrumentation, 2 take score input with an ML method (one commercial, one research), 3 take score input with rules, and 4 take other input (tables T1–T6 of evidence E2); on 9 dossiers coded independently by a second agent, Krippendorff's alpha was 1 for 17 codes and 0.62–0.78 for 4 (rules method, ML method, free tier, price not stated), each from one disagreement of 9 (tables T7–T8).",
    "type": "descriptive",
-   "role": "supporting",
+   "role": "principal",
    "novelty": "no_prior_found",
    "support": [
     {
@@ -896,161 +924,8 @@
    ],
    "provenance": "author_stated",
    "planning": "planned_estimate",
-   "planned_at": "2026-11-19T20:12:59Z",
-   "planned_at_anchor": "git_remote",
-   "estimate": {
-    "estimands": {
-     "total": {
-      "variable": "number of arranging systems",
-      "table": true,
-      "run": 1
-     },
-     "by_code": {
-      "variable": "systems with code",
-      "table": true,
-      "run": 1
-     },
-     "method_avail": {
-      "variable": "systems by method and availability",
-      "table": true,
-      "run": 1
-     },
-     "platform": {
-      "variable": "systems by platform and method",
-      "table": true,
-      "run": 1
-     },
-     "pricing": {
-      "variable": "systems by pricing and method",
-      "table": true,
-      "run": 1
-     },
-     "target": {
-      "variable": "notated chosen-instrument systems by input and method",
-      "table": true,
-      "run": 1
-     },
-     "alpha": {
-      "variable": "Krippendorff alpha",
-      "table": true,
-      "run": 2
-     },
-     "agreed": {
-      "variable": "share of dossiers agreed",
-      "table": true,
-      "run": 2
-     }
-    },
-    "runs": 2,
-    "lab_plan": "PL2",
-    "not_obtained": [
-     "alpha",
-     "agreed"
-    ],
-    "flags": [
-     "code_changed_after_plan"
-    ]
-   },
-   "limitations": [
-    "L1",
-    "L2"
-   ],
-   "scope": {
-    "setting": "software products, online services and research systems that arrange existing music for instruments",
-    "period": "retrieved 19 November 2026",
-    "data_type": "developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets",
-    "population": "the same 36 arranging systems",
-    "conditions": [
-     "runs RN3 and RN4 of plan PL2, before the scripts were fixed"
-    ]
-   }
-  },
-  {
-   "id": "C3",
-   "statement": "Of the 36 [[D1:arranging system]]s coded from a [[D13:market scan]] (19 November 2026), 19 give [[D2:notated output]], 10 a [[D3:user-chosen instrumentation]] and 9 take [[D4:score input]]; 17 use an [[D5:ML method]], 16 a [[D6:rules method]] and 3 an [[D7:unclear method]]; of the 15 [[D9:commercially available]] systems, 11 are rules-based, 3 unclear and 1 ML, while 15 of the 17 [[D11:research prototype]]s are ML; among systems with notated output for a user-chosen instrumentation, 2 take score input with an ML method (one commercial, one research), 3 take score input with rules, and 4 take other input (tables T1–T6 of evidence E3); on 9 dossiers coded independently by a second agent, Krippendorff's alpha was 1 for 17 codes and 0.62–0.78 for 4 (rules method, ML method, free tier, price not stated), each from one disagreement of 9 (tables T7–T8).",
-   "type": "descriptive",
-   "role": "principal",
-   "novelty": "no_prior_found",
-   "support": [
-    {
-     "kind": "empirical_qual",
-     "evidence": "E3",
-     "results": [
-      "E3.T1.r1",
-      "E3.T2.r1",
-      "E3.T2.r2",
-      "E3.T2.r3",
-      "E3.T2.r4",
-      "E3.T2.r5",
-      "E3.T2.r6",
-      "E3.T2.r7",
-      "E3.T2.r8",
-      "E3.T2.r9",
-      "E3.T2.r10",
-      "E3.T2.r11",
-      "E3.T2.r12",
-      "E3.T2.r13",
-      "E3.T2.r14",
-      "E3.T2.r15",
-      "E3.T2.r16",
-      "E3.T2.r17",
-      "E3.T2.r18",
-      "E3.T2.r19",
-      "E3.T2.r20",
-      "E3.T2.r21",
-      "E3.T3.r1",
-      "E3.T3.r2",
-      "E3.T3.r3",
-      "E3.T3.r4",
-      "E3.T3.r5",
-      "E3.T3.r6",
-      "E3.T3.r7",
-      "E3.T3.r8",
-      "E3.T3.r9",
-      "E3.T4.r1",
-      "E3.T4.r2",
-      "E3.T4.r3",
-      "E3.T4.r4",
-      "E3.T4.r5",
-      "E3.T4.r6",
-      "E3.T4.r7",
-      "E3.T4.r8",
-      "E3.T4.r9",
-      "E3.T4.r10",
-      "E3.T4.r11",
-      "E3.T4.r12",
-      "E3.T4.r13",
-      "E3.T4.r14",
-      "E3.T4.r15",
-      "E3.T4.r16",
-      "E3.T4.r17",
-      "E3.T4.r18",
-      "E3.T5.r1",
-      "E3.T5.r2",
-      "E3.T5.r3",
-      "E3.T5.r4",
-      "E3.T5.r5",
-      "E3.T5.r6",
-      "E3.T5.r7",
-      "E3.T5.r8",
-      "E3.T5.r9",
-      "E3.T5.r10",
-      "E3.T5.r11",
-      "E3.T5.r12",
-      "E3.T6.r1",
-      "E3.T6.r2",
-      "E3.T6.r3",
-      "E3.T6.r4",
-      "E3.T6.r5",
-      "E3.T6.r6"
-     ]
-    }
-   ],
-   "provenance": "author_stated",
-   "planning": "planned_estimate",
    "planned_at": "2026-11-19T21:00:27Z",
    "planned_at_anchor": "git_remote",
-   "ext": {},
    "estimate": {
     "estimands": {
      "total": {
@@ -1097,6 +972,12 @@
     "runs": 2,
     "lab_plan": "PL3"
    },
+   "limitations": [
+    "L1",
+    "L2",
+    "L3",
+    "L4"
+   ],
    "scope": {
     "setting": "software products, online services and research systems that arrange existing music for instruments",
     "period": "retrieved 19 November 2026",
@@ -1112,15 +993,6 @@
      "systems not returned by the 20 queries or the roundups they led to"
     ]
    },
-   "about": {
-    "subject": "D1",
-    "relation": "counted by code",
-    "object": "D2",
-    "comparator": null,
-    "conditions": [
-     "D13"
-    ]
-   },
    "relations": [
     {
      "type": "extends",
@@ -1132,7 +1004,16 @@
      "reference": "B38",
      "note": "Zhu (2023) surveys AI music generation tools, including commercial applications, and lists their functional features, without counting arranging systems by notated output, score input, instrument choice or method."
     }
-   ]
+   ],
+   "about": {
+    "subject": "D1",
+    "relation": "counted by code",
+    "object": "D2",
+    "comparator": null,
+    "conditions": [
+     "D13"
+    ]
+   }
   }
  ],
  "evidence": [
@@ -1237,894 +1118,6 @@
   {
    "id": "E2",
    "profile": "qual",
-   "description": "Lab runs RN3, RN4 under plan PL2. Design: Market scan (D13): run the 20 fixed queries in claimset-code/score-arrangers-2026/queries.txt once each (WebSearch, standard mode; 15 general and research queries, 5 aimed at Reddit, KVR, MuseScore and Gearspace forums), screen every result against the inclusion criteria, snowball one level from included roundups and forum threads, build one dossier per included system from its own pages (product page, pricing page, documentation, paper), capture it, and code it with the codebook D2-D12 and D14-D23 (pass 1, this agent). A second agent, registered before it starts and working in its own log, independently codes (pass 2) a 25% random sample of the dossiers (Python random.sample, seed 2026, over dossier IDs in capture order). Syntonic Labs products and human arranging services are excluded. Analysis: Run 1: claimset-code/score-arrangers-2026/tally.py counts pass-1 systems: in total; with each code; by method and availability; by platform and method; by pricing and method; and, among systems with notated output for a user-chosen instrumentation, by input (score or other) and method; it also counts systems without exactly one method or availability code, as a check. Run 2: claimset-code/score-arrangers-2026/agreement.py gives, per code, Krippendorff's alpha (two coders, nominal) and the share of dossiers agreed, over the dossiers both coders coded.",
-   "availability": {
-    "level": "public"
-   },
-   "lab_runs": [
-    "RN3",
-    "RN4"
-   ],
-   "tables": [
-    {
-     "id": "T1",
-     "description": "number of arranging systems, dossiers coded by both coders (lab runs RN3, RN4)",
-     "row_labels": [],
-     "columns": [
-      "number of arranging systems",
-      "dossiers coded by both coders"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [],
-       "values": [
-        0,
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T2",
-     "description": "systems with code by code (lab runs RN3)",
-     "row_labels": [
-      "code"
-     ],
-     "columns": [
-      "systems with code"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "DAW plugin"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r3",
-       "label": [
-        "code or model only"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r4",
-       "label": [
-        "commercially available"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r5",
-       "label": [
-        "desktop application"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r6",
-       "label": [
-        "free or open-source"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r7",
-       "label": [
-        "free tier"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r8",
-       "label": [
-        "full-match arranger"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r9",
-       "label": [
-        "interactive or real-time"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r10",
-       "label": [
-        "mobile app"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r11",
-       "label": [
-        "notated output"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r12",
-       "label": [
-        "notation-app plugin or feature"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r13",
-       "label": [
-        "one-time purchase"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r14",
-       "label": [
-        "price not stated"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r15",
-       "label": [
-        "research prototype"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r16",
-       "label": [
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r17",
-       "label": [
-        "score input"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r18",
-       "label": [
-        "subscription"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r19",
-       "label": [
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r20",
-       "label": [
-        "user-chosen instrumentation"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r21",
-       "label": [
-        "web service"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T3",
-     "description": "systems by method and availability by method, availability (lab runs RN3)",
-     "row_labels": [
-      "method",
-      "availability"
-     ],
-     "columns": [
-      "systems by method and availability"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "ML method",
-        "commercially available"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "ML method",
-        "free or open-source"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r3",
-       "label": [
-        "ML method",
-        "research prototype"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r4",
-       "label": [
-        "rules method",
-        "commercially available"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r5",
-       "label": [
-        "rules method",
-        "free or open-source"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r6",
-       "label": [
-        "rules method",
-        "research prototype"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r7",
-       "label": [
-        "unclear method",
-        "commercially available"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r8",
-       "label": [
-        "unclear method",
-        "free or open-source"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r9",
-       "label": [
-        "unclear method",
-        "research prototype"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T4",
-     "description": "systems by platform and method by platform, method (lab runs RN3)",
-     "row_labels": [
-      "platform",
-      "method"
-     ],
-     "columns": [
-      "systems by platform and method"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "desktop application",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "desktop application",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r3",
-       "label": [
-        "desktop application",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r4",
-       "label": [
-        "web service",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r5",
-       "label": [
-        "web service",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r6",
-       "label": [
-        "web service",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r7",
-       "label": [
-        "DAW plugin",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r8",
-       "label": [
-        "DAW plugin",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r9",
-       "label": [
-        "DAW plugin",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r10",
-       "label": [
-        "notation-app plugin or feature",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r11",
-       "label": [
-        "notation-app plugin or feature",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r12",
-       "label": [
-        "notation-app plugin or feature",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r13",
-       "label": [
-        "mobile app",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r14",
-       "label": [
-        "mobile app",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r15",
-       "label": [
-        "mobile app",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r16",
-       "label": [
-        "code or model only",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r17",
-       "label": [
-        "code or model only",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r18",
-       "label": [
-        "code or model only",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T5",
-     "description": "systems by pricing and method by pricing, method (lab runs RN3)",
-     "row_labels": [
-      "pricing",
-      "method"
-     ],
-     "columns": [
-      "systems by pricing and method"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "one-time purchase",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "one-time purchase",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r3",
-       "label": [
-        "one-time purchase",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r4",
-       "label": [
-        "subscription",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r5",
-       "label": [
-        "subscription",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r6",
-       "label": [
-        "subscription",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r7",
-       "label": [
-        "free tier",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r8",
-       "label": [
-        "free tier",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r9",
-       "label": [
-        "free tier",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r10",
-       "label": [
-        "price not stated",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r11",
-       "label": [
-        "price not stated",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r12",
-       "label": [
-        "price not stated",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T6",
-     "description": "notated chosen-instrument systems by input and method by input, method (lab runs RN3)",
-     "row_labels": [
-      "input",
-      "method"
-     ],
-     "columns": [
-      "notated chosen-instrument systems by input and method"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "score input",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "score input",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r3",
-       "label": [
-        "score input",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r4",
-       "label": [
-        "other input",
-        "ML method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r5",
-       "label": [
-        "other input",
-        "rules method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r6",
-       "label": [
-        "other input",
-        "unclear method"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T7",
-     "description": "systems without exactly one code of a group by group (lab runs RN3)",
-     "row_labels": [
-      "group"
-     ],
-     "columns": [
-      "systems without exactly one code of a group"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "availability"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    },
-    {
-     "id": "T8",
-     "description": "systems without exactly one code of a group by group; pass: 2 (lab runs RN4)",
-     "conditions": {
-      "pass": 2
-     },
-     "row_labels": [
-      "group"
-     ],
-     "columns": [
-      "systems without exactly one code of a group"
-     ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "method"
-       ],
-       "values": [
-        0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "availability"
-       ],
-       "values": [
-        0
-       ]
-      }
-     ],
-     "artefact": "A37"
-    }
-   ],
-   "artefacts": [
-    "A37",
-    "A1",
-    "A2",
-    "A3",
-    "A4",
-    "A5",
-    "A6",
-    "A7",
-    "A8",
-    "A9",
-    "A10",
-    "A11",
-    "A12",
-    "A13",
-    "A14",
-    "A15",
-    "A16",
-    "A17",
-    "A18",
-    "A19",
-    "A20",
-    "A21",
-    "A22",
-    "A23",
-    "A24",
-    "A25",
-    "A26",
-    "A27",
-    "A28",
-    "A29",
-    "A30",
-    "A31",
-    "A32",
-    "A33",
-    "A34",
-    "A35",
-    "A36"
-   ],
-   "setup": {
-    "studied": [
-     "D1"
-    ],
-    "procedure": [
-     "D13"
-    ],
-    "lens": [
-     "D2",
-     "D3",
-     "D4",
-     "D5",
-     "D6",
-     "D7",
-     "D8",
-     "D9",
-     "D10",
-     "D11",
-     "D14",
-     "D15",
-     "D16",
-     "D17",
-     "D18",
-     "D19",
-     "D20",
-     "D21",
-     "D22",
-     "D23"
-    ]
-   },
-   "execution": {
-    "code_version": "98b73b3476b0011c509c0c9fc48967bcc9164f1e",
-    "software": {
-     "python": "3.13.18",
-     "platform": "Linux-6.18.44-fc-v653-x86_64-with-glibc2.39"
-    }
-   },
-   "data_sources": [
-    "document"
-   ],
-   "analytic_approach": "content_analysis",
-   "n_participants_or_cases": 36
-  },
-  {
-   "id": "E3",
-   "profile": "qual",
    "description": "Lab runs RN5, RN6 under plan PL3. Design: Same market scan, dossiers SR1-SR36 and codings as PL2 (pass 1 by AC1 on all 36; pass 2 by AC3 on the 9 sampled dossiers SR7, SR8, SR20, SR21, SR29, SR31, SR33, SR34, SR36). Re-runs PL2's analysis with the scripts fixed after PL2's runs RN3 and RN4 counted nothing (deviations DV1, DV2). Analysis: Run 1: claimset-code/score-arrangers-2026/tally.py (fixed) counts pass-1 systems: total; with each code; by method and availability; by platform and method; by pricing and method; among notated chosen-instrument systems by input and method; and systems without exactly one method or availability code. Run 2: agreement.py (fixed) gives per code Krippendorff's alpha (two coders, nominal) and share of dossiers agreed over the dossiers both coders coded.",
    "availability": {
     "level": "public"
@@ -2165,240 +1158,9 @@
       "Krippendorff alpha",
       "share of dossiers agreed"
      ],
-     "rows": [
-      {
-       "id": "r1",
-       "label": [
-        "DAW plugin"
-       ],
-       "values": [
-        4,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r2",
-       "label": [
-        "ML method"
-       ],
-       "values": [
-        17,
-        0.779221,
-        0.8888888888888888
-       ]
-      },
-      {
-       "id": "r3",
-       "label": [
-        "code or model only"
-       ],
-       "values": [
-        7,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r4",
-       "label": [
-        "commercially available"
-       ],
-       "values": [
-        15,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r5",
-       "label": [
-        "desktop application"
-       ],
-       "values": [
-        7,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r6",
-       "label": [
-        "free or open-source"
-       ],
-       "values": [
-        1,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r7",
-       "label": [
-        "free tier"
-       ],
-       "values": [
-        9,
-        0.622222,
-        0.8888888888888888
-       ]
-      },
-      {
-       "id": "r8",
-       "label": [
-        "full-match arranger"
-       ],
-       "values": [
-        1,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r9",
-       "label": [
-        "interactive or real-time"
-       ],
-       "values": [
-        9,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r10",
-       "label": [
-        "mobile app"
-       ],
-       "values": [
-        2,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r11",
-       "label": [
-        "notated output"
-       ],
-       "values": [
-        19,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r12",
-       "label": [
-        "notation-app plugin or feature"
-       ],
-       "values": [
-        6,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r13",
-       "label": [
-        "one-time purchase"
-       ],
-       "values": [
-        8,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r14",
-       "label": [
-        "price not stated"
-       ],
-       "values": [
-        21,
-        0.622222,
-        0.8888888888888888
-       ]
-      },
-      {
-       "id": "r15",
-       "label": [
-        "research prototype"
-       ],
-       "values": [
-        17,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r16",
-       "label": [
-        "rules method"
-       ],
-       "values": [
-        16,
-        0.622222,
-        0.8888888888888888
-       ]
-      },
-      {
-       "id": "r17",
-       "label": [
-        "score input"
-       ],
-       "values": [
-        9,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r18",
-       "label": [
-        "subscription"
-       ],
-       "values": [
-        3,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r19",
-       "label": [
-        "unclear method"
-       ],
-       "values": [
-        3,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r20",
-       "label": [
-        "user-chosen instrumentation"
-       ],
-       "values": [
-        10,
-        1.0,
-        1.0
-       ]
-      },
-      {
-       "id": "r21",
-       "label": [
-        "web service"
-       ],
-       "values": [
-        4,
-        1.0,
-        1.0
-       ]
-      }
-     ],
-     "artefact": "A37"
+     "artefact": "A37",
+     "rows_file": "A39",
+     "n_rows": 21
     },
     {
      "id": "T3",
@@ -3009,7 +1771,8 @@
     "A33",
     "A34",
     "A35",
-    "A36"
+    "A36",
+    "A39"
    ],
    "setup": {
     "studied": [
@@ -3059,18 +1822,19 @@
  "limitations": [
   {
    "id": "L1",
-   "category": "analytic_flexibility",
-   "statement": "Lab run RN3 deviated from plan PL2: tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. Reason: Bug in the analysis script found after the run; RN3's results are wrong and are not reported as estimates.",
+   "category": "deviation",
+   "statement": "Lab plan PL2 was made void (DC3): a defect made its runs (RN3, RN4) meaningless. DV1: tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. DV2: agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. This claim is from plan PL3, which repeats it with the same analysis, reworded (both texts are in the exploration summary), and decision rule on the same data. PL3 was planned after the void runs and before its own, so what the void runs showed could have shaped it. The void runs returned only zeros for every count and no agreement values; no coding or count of any system was visible in them, so they showed nothing that could have shaped PL3 beyond the bug itself.",
    "affects": [
     "C2"
    ],
    "impact": "could_bias_magnitude",
-   "mitigation": "none"
+   "mitigation": "partial",
+   "mitigation_evidence": "E2"
   },
   {
    "id": "L2",
    "category": "analytic_flexibility",
-   "statement": "Lab run RN4 deviated from plan PL2: agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. Reason: Same bug as RN3; alpha and share agreed were not obtained.",
+   "statement": "Plan PL3 was written after the dossiers had been coded (it re-runs PL2's analysis after a bug fix), so the codings of its counts precede its plan; the codebook, the codings and the analysis are those fixed under PL2, unchanged.",
    "affects": [
     "C2"
    ],
@@ -3079,32 +1843,22 @@
   },
   {
    "id": "L3",
-   "category": "analytic_flexibility",
-   "statement": "Plan PL3 was written after the dossiers had been coded (it re-runs PL2's analysis after a bug fix), so the codings of its counts precede its plan; the codebook, the codings and the analysis are those fixed under PL2, unchanged.",
+   "category": "sampling",
+   "statement": "The scan covers only systems that 20 fixed web queries (and one level of snowballing) returned on 19 November 2026; products seen in an earlier ad-hoc search but not returned (Orb Composer, LANDR Composer, InstaComposer, Muse, RapidComposer, Texturium) are not in the counts, and a negative or positive count holds for this frame only.",
    "affects": [
-    "C3"
+    "C1",
+    "C2"
    ],
    "impact": "could_bias_magnitude",
    "mitigation": "none"
   },
   {
    "id": "L4",
-   "category": "sampling",
-   "statement": "The scan covers only systems that 20 fixed web queries (and one level of snowballing) returned on 19 November 2026; products seen in an earlier ad-hoc search but not returned (Orb Composer, LANDR Composer, InstaComposer, Muse, RapidComposer, Texturium) are not in the counts, and a negative or positive count holds for this frame only.",
-   "affects": [
-    "C1",
-    "C3"
-   ],
-   "impact": "could_bias_magnitude",
-   "mitigation": "none"
-  },
-  {
-   "id": "L5",
    "category": "measurement",
    "statement": "Dossiers were built from WebFetch renderings of each page by a language model and from search snippets, not from byte copies of the pages; a feature a page states could be missed or misrendered, and several dossiers (Dorico, Chord Dock, Finale, research papers) rest on snippets or summaries.",
    "affects": [
     "C1",
-    "C3"
+    "C2"
    ],
    "impact": "could_bias_magnitude",
    "mitigation": "none"
@@ -3614,12 +2368,40 @@
   {
    "id": "A38",
    "kind": "lab_record",
-   "uri": "https://github.com/Syntonic-Labs/research/blob/660315466d842ebb80840f008cc12583eec21fb9/lab/lab.jsonl",
-   "version": "sha256:c5c5dfde847f894ca73a3f33813a25ec831e9e027e621b0298c195b9dfda1b90",
+   "uri": "https://github.com/Syntonic-Labs/research/blob/203876d982665cff1d41ce978d9cc351de512c8f/lab/lab.jsonl",
+   "version": "sha256:7bcf9743d5f3ce7080521cdcad7eba700b254d0d94560d9b79fa2738d0c1c220",
    "availability": {
     "level": "public"
    },
-   "description": "Lab record of the study: questions, hypotheses, plans, runs, results and decisions, as an append-only, hash-chained event log (Claimset lab record specification v0.22, begun 2026-11-19; exported with claimset 0.44.6)."
+   "description": "Lab record of the study: questions, hypotheses, plans, runs, results and decisions, as an append-only, hash-chained event log (Claimset lab record specification v0.22, begun 2026-11-19; exported with claimset 0.44.10)."
+  },
+  {
+   "id": "A39",
+   "kind": "data",
+   "uri": "files/score-arrangers-2026.E2.T2.csv",
+   "version": "sha256:753f57fcf6eab446762a35c7ac54efebbb60676a1732578a63f7b83ebc25cc0e",
+   "availability": {
+    "level": "public"
+   },
+   "description": "The 21 rows of table E2.T2: systems with code, Krippendorff alpha, share of dossiers agreed by code (lab runs RN5, RN6)",
+   "columns": [
+    {
+     "name": "code",
+     "dimension": "code"
+    },
+    {
+     "name": "systems with code",
+     "variable": "systems with code"
+    },
+    {
+     "name": "Krippendorff alpha",
+     "variable": "Krippendorff alpha"
+    },
+    {
+     "name": "share of dossiers agreed",
+     "variable": "share of dossiers agreed"
+    }
+   ]
   }
  ],
  "references": [
