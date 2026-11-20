@@ -1,0 +1,6050 @@
+[
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "subscription",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "mobile app",
+"value": 1,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Sibelius Arrange (Avid Sibelius)",
+"link": "https://www.avid.com/sibelius/music-arranging"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "mobile app",
+"value": 1,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Dorico Explode (Steinberg Dorico)",
+"link": "https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "free or open-source",
+"value": 1,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 1,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "MuseScore Explode/Implode tools",
+"link": "https://musescore.org/en/node/291410"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 1,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "MuseScore Arrange Parts plugin",
+"link": "https://musescore.org/project/arrange-parts"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 1,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Finale Explode Music (MakeMusic Finale)",
+"link": "https://www.finalemusic.com/?p=5036"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "subscription",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "capella audio2score pro",
+"link": "https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "unclear method",
+"value": 1,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "web service",
+"value": 1,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Songscription piano arrangement",
+"link": "https://www.songscription.ai/piano-arrangement-generator"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "unclear method",
+"value": 1,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "web service",
+"value": 1,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Klangio piano arrangement (Piano2Notes, Melody Scanner)",
+"link": "https://klang.io/?p=38689"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "web service",
+"value": 1,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Virtuoso (AI sheet music generator)",
+"link": "https://www.producthunt.com/products/virtuoso-2/launches"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "subscription",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 1,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "AiHud Notation Copilot / Scorehand (MuseScore plugin)",
+"link": "https://musescore.org/en/project/aihud-notation-copilot"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Band-in-a-Box (PG Music)",
+"link": "https://www.pgmusic.com/bbmac.features.htm"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "vArranger",
+"link": "https://www.kvraudio.com/product/varranger-by-varranger"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 1,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "ReChord",
+"link": "https://www.kvraudio.com/product/rechord-by-rechord"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 1,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Chord Dock (Arranger Mode), k2get",
+"link": "https://www.kvraudio.com/product/chord-dock-performance-by-k2get"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Groovyband Live!",
+"link": "https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 1,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Scale Rider (Interloud Audio)",
+"link": "https://www.kvraudio.com/product/scale-rider-by-interloud-audio"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "desktop application",
+"value": 1,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "nimbu",
+"link": "https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 1,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 1,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Captain Plugins (Mixed In Key)",
+"link": "https://mixedinkey.com/captain-plugins/"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "unclear method",
+"value": 1,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "commercially available",
+"value": 1,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "research prototype",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "free tier",
+"value": 1,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "price not stated",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "web service",
+"value": 1,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "ImagineArt AI Sheet Music Generator",
+"link": "https://www.imagine.art/music-studio/sheet-music-generator"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "Arranger: automatic instrumentation by part separation (Dong et al. 2021)",
+"link": "https://www.arxiv.org/pdf/2107.05916v1"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "SymphonyNet (Liu et al. 2022)",
+"link": "https://arxiv.org/pdf/2205.05448"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 1,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Live Orchestral Piano (Crestel and Esling)",
+"link": "https://arxiv.org/pdf/1609.01203v1"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",
+"link": "https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Unified symbolic music arrangement (Ou et al. 2024-25)",
+"link": "https://arxiv.org/html/2408.15176v5"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 1,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",
+"link": "https://arxiv.org/html/2310.16334v4"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "Audio-to-symbolic piano arrangement (Wang et al. 2022)",
+"link": "https://arxiv.org/pdf/2112.15110"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Lead sheet arrangement by conditional GAN (Liu and Yang 2018)",
+"link": "https://arxiv.org/abs/1807.11161v1"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "Instrumentation change by disentangled timbre representations (Hung et al. 2019)",
+"link": "https://arxiv.org/abs/1905.13567v1"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Audio-based piano reduction score (Takamori et al. 2019)",
+"link": "https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "Piano reduction with BERT (Wong et al. 2025)",
+"link": "https://arxiv.org/html/2512.21324v1"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)",
+"link": "https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)",
+"link": "https://ar5iv.arxiv.org/html/1808.05006"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "notated output",
+"value": 1,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",
+"link": "https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Difficulty-aware neural band-to-piano score arrangement (2022)",
+"link": "https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "score input",
+"value": 1,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "ML method",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "rules method",
+"value": 1,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "code or model only",
+"value": 1,
+"conditions": {
+"system": "Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)",
+"link": "https://zenodo.org/records/10113103"
+}
+},
+{
+"variable": "full-match arranger",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "notated output",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "user-chosen instrumentation",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "score input",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "ML method",
+"value": 1,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "rules method",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "unclear method",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "interactive or real-time",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "commercially available",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "free or open-source",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "research prototype",
+"value": 1,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "one-time purchase",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "subscription",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "free tier",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "price not stated",
+"value": 1,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "desktop application",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "web service",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "DAW plugin",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "notation-app plugin or feature",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "mobile app",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+},
+{
+"variable": "code or model only",
+"value": 0,
+"conditions": {
+"system": "Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",
+"link": "https://abstracts.societyforscience.org/Home/PrintPdf/16858"
+}
+}
+]

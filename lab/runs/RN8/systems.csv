@@ -1,0 +1,37 @@
+system,link,full-match arranger,notated output,user-chosen instrumentation,score input,ML method,rules method,unclear method,interactive or real-time,commercially available,free or open-source,research prototype,one-time purchase,subscription,free tier,price not stated,desktop application,web service,DAW plugin,notation-app plugin or feature,mobile app,code or model only
+Sibelius Arrange (Avid Sibelius),https://www.avid.com/sibelius/music-arranging,,✓,✓,✓,,✓,,,✓,,,,✓,✓,,✓,,,✓,✓,
+Dorico Explode (Steinberg Dorico),https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html,,✓,,✓,,✓,,,✓,,,,,✓,,✓,,,✓,✓,
+MuseScore Explode/Implode tools,https://musescore.org/en/node/291410,,✓,,✓,,✓,,,,✓,,,,✓,,,,,✓,,
+MuseScore Arrange Parts plugin,https://musescore.org/project/arrange-parts,,✓,✓,✓,,✓,,,,,,,,,✓,,,,✓,,
+Finale Explode Music (MakeMusic Finale),https://www.finalemusic.com/?p=5036,,✓,✓,✓,,✓,,,,,,,,,✓,,,,✓,,
+capella audio2score pro,https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro,,✓,✓,,,✓,,,✓,,,✓,✓,,,✓,,,,,
+Songscription piano arrangement,https://www.songscription.ai/piano-arrangement-generator,,✓,,✓,,,✓,,✓,,,,,✓,,,✓,,,,
+"Klangio piano arrangement (Piano2Notes, Melody Scanner)",https://klang.io/?p=38689,,✓,,,,,✓,,✓,,,,,✓,,,✓,,,,
+Virtuoso (AI sheet music generator),https://www.producthunt.com/products/virtuoso-2/launches,,✓,✓,,✓,,,,,,,,,,✓,,✓,,,,
+AiHud Notation Copilot / Scorehand (MuseScore plugin),https://musescore.org/en/project/aihud-notation-copilot,✓,✓,✓,✓,✓,,,,✓,,,,✓,✓,,,,,✓,,
+Band-in-a-Box (PG Music),https://www.pgmusic.com/bbmac.features.htm,,✓,,,,✓,,,✓,,,,,,✓,✓,,,,,
+vArranger,https://www.kvraudio.com/product/varranger-by-varranger,,,,,,✓,,✓,✓,,,✓,,,,✓,,,,,
+ReChord,https://www.kvraudio.com/product/rechord-by-rechord,,,,,,✓,,✓,✓,,,✓,,,,,,✓,,,
+"Chord Dock (Arranger Mode), k2get",https://www.kvraudio.com/product/chord-dock-performance-by-k2get,,,,,,✓,,✓,✓,,,✓,,✓,,,,✓,,,
+Groovyband Live!,https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news,,,,,,✓,,✓,✓,,,✓,,✓,,✓,,,,,
+Scale Rider (Interloud Audio),https://www.kvraudio.com/product/scale-rider-by-interloud-audio,,,,,,✓,,✓,✓,,,✓,,,,,,✓,,,
+nimbu,https://www.kvraudio.com/product/nimbu-4-40-by-nimbu,,,,,,✓,,✓,✓,,,✓,,,,✓,,,,,
+Captain Plugins (Mixed In Key),https://mixedinkey.com/captain-plugins/,,,,,,✓,,✓,✓,,,✓,,,,,,✓,,,
+ImagineArt AI Sheet Music Generator,https://www.imagine.art/music-studio/sheet-music-generator,,✓,✓,,,,✓,,✓,,,,,✓,,,✓,,,,
+Arranger: automatic instrumentation by part separation (Dong et al. 2021),https://www.arxiv.org/pdf/2107.05916v1,,,,,✓,,,✓,,,✓,,,,✓,,,,,,✓
+SymphonyNet (Liu et al. 2022),https://arxiv.org/pdf/2205.05448,,,,,✓,,,,,,✓,,,,✓,,,,,,✓
+Live Orchestral Piano (Crestel and Esling),https://arxiv.org/pdf/1609.01203v1,,✓,,,✓,,,✓,,,✓,,,,✓,,,,,,
+"Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)",https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf,,✓,✓,✓,✓,,,,,,✓,,,,✓,,,,,,
+Unified symbolic music arrangement (Ou et al. 2024-25),https://arxiv.org/html/2408.15176v5,,,✓,,✓,,,,,,✓,,,,✓,,,,,,
+"Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)",https://arxiv.org/html/2310.16334v4,,✓,✓,,✓,,,,,,✓,,,,✓,,,,,,✓
+Audio-to-symbolic piano arrangement (Wang et al. 2022),https://arxiv.org/pdf/2112.15110,,,,,✓,,,,,,✓,,,,✓,,,,,,✓
+Lead sheet arrangement by conditional GAN (Liu and Yang 2018),https://arxiv.org/abs/1807.11161v1,,,,,✓,,,,,,✓,,,,✓,,,,,,
+Instrumentation change by disentangled timbre representations (Hung et al. 2019),https://arxiv.org/abs/1905.13567v1,,✓,,,✓,,,,,,✓,,,,✓,,,,,,✓
+Audio-based piano reduction score (Takamori et al. 2019),https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf,,✓,,,,✓,,,,,✓,,,,✓,,,,,,
+Piano reduction with BERT (Wong et al. 2025),https://arxiv.org/html/2512.21324v1,,,,,✓,,,,,,✓,,,,✓,,,,,,✓
+Piano reduction by merged-output HMM (Nakamura and Sagayama 2015),https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf,,✓,,,✓,,,,,,✓,,,,✓,,,,,,
+Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018),https://ar5iv.arxiv.org/html/1808.05006,,,,,✓,,,,,,✓,,,,✓,,,,,,
+"Score-reduction arrangement framework (Huang, Chiu, Shan 2012)",https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf,,✓,,,✓,,,,,,✓,,,,✓,,,,,,
+Difficulty-aware neural band-to-piano score arrangement (2022),https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and,,,,,✓,,,,,,✓,,,,✓,,,,,,
+Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023),https://zenodo.org/records/10113103,,,,✓,,✓,,,,,✓,,,,✓,,,,,,✓
+"Auto Arranger Based on Deep Learning Methods (student project, Shumnov)",https://abstracts.societyforscience.org/Home/PrintPdf/16858,,,,,✓,,,,,,✓,,,,✓,,,,,,
