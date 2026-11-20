@@ -189,3 +189,759 @@ RS187,RN6,Krippendorff alpha,"{""code"": ""web service""}",1.0
 RS188,RN6,share of dossiers agreed,"{""code"": ""web service""}",1.0
 RS189,RN6,systems without exactly one code of a group,"{""group"": ""method"", ""pass"": 2}",0
 RS190,RN6,systems without exactly one code of a group,"{""group"": ""availability"", ""pass"": 2}",0
+RS191,RN7,notated output,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS192,RN7,user-chosen instrumentation,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS193,RN7,score input,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS194,RN7,rules method,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS195,RN7,commercially available,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS196,RN7,subscription,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS197,RN7,free tier,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS198,RN7,desktop application,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS199,RN7,notation-app plugin or feature,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS200,RN7,mobile app,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",1
+RS201,RN7,free or open-source,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS202,RN7,price not stated,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS203,RN7,one-time purchase,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS204,RN7,unclear method,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS205,RN7,web service,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS206,RN7,ML method,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS207,RN7,interactive or real-time,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS208,RN7,DAW plugin,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS209,RN7,research prototype,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS210,RN7,code or model only,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS211,RN7,full-match arranger,"{""link"": ""https://www.avid.com/sibelius/music-arranging"", ""system"": ""Sibelius Arrange (Avid Sibelius)""}",0
+RS212,RN7,notated output,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS213,RN7,user-chosen instrumentation,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS214,RN7,score input,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS215,RN7,rules method,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS216,RN7,commercially available,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS217,RN7,subscription,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS218,RN7,free tier,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS219,RN7,desktop application,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS220,RN7,notation-app plugin or feature,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS221,RN7,mobile app,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",1
+RS222,RN7,free or open-source,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS223,RN7,price not stated,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS224,RN7,one-time purchase,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS225,RN7,unclear method,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS226,RN7,web service,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS227,RN7,ML method,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS228,RN7,interactive or real-time,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS229,RN7,DAW plugin,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS230,RN7,research prototype,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS231,RN7,code or model only,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS232,RN7,full-match arranger,"{""link"": ""https://www.steinberg.help/r/dorico-pro/5.1/en/dorico/topics/glossary/exploding_g.html"", ""system"": ""Dorico Explode (Steinberg Dorico)""}",0
+RS233,RN7,notated output,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",1
+RS234,RN7,user-chosen instrumentation,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS235,RN7,score input,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",1
+RS236,RN7,rules method,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",1
+RS237,RN7,commercially available,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS238,RN7,subscription,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS239,RN7,free tier,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",1
+RS240,RN7,desktop application,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS241,RN7,notation-app plugin or feature,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",1
+RS242,RN7,mobile app,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS243,RN7,free or open-source,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",1
+RS244,RN7,price not stated,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS245,RN7,one-time purchase,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS246,RN7,unclear method,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS247,RN7,web service,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS248,RN7,ML method,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS249,RN7,interactive or real-time,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS250,RN7,DAW plugin,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS251,RN7,research prototype,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS252,RN7,code or model only,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS253,RN7,full-match arranger,"{""link"": ""https://musescore.org/en/node/291410"", ""system"": ""MuseScore Explode/Implode tools""}",0
+RS254,RN7,notated output,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",1
+RS255,RN7,user-chosen instrumentation,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",1
+RS256,RN7,score input,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",1
+RS257,RN7,rules method,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",1
+RS258,RN7,commercially available,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS259,RN7,subscription,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS260,RN7,free tier,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS261,RN7,desktop application,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS262,RN7,notation-app plugin or feature,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",1
+RS263,RN7,mobile app,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS264,RN7,free or open-source,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS265,RN7,price not stated,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",1
+RS266,RN7,one-time purchase,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS267,RN7,unclear method,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS268,RN7,web service,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS269,RN7,ML method,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS270,RN7,interactive or real-time,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS271,RN7,DAW plugin,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS272,RN7,research prototype,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS273,RN7,code or model only,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS274,RN7,full-match arranger,"{""link"": ""https://musescore.org/project/arrange-parts"", ""system"": ""MuseScore Arrange Parts plugin""}",0
+RS275,RN7,notated output,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",1
+RS276,RN7,user-chosen instrumentation,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",1
+RS277,RN7,score input,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",1
+RS278,RN7,rules method,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",1
+RS279,RN7,commercially available,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS280,RN7,subscription,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS281,RN7,free tier,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS282,RN7,desktop application,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS283,RN7,notation-app plugin or feature,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",1
+RS284,RN7,mobile app,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS285,RN7,free or open-source,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS286,RN7,price not stated,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",1
+RS287,RN7,one-time purchase,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS288,RN7,unclear method,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS289,RN7,web service,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS290,RN7,ML method,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS291,RN7,interactive or real-time,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS292,RN7,DAW plugin,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS293,RN7,research prototype,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS294,RN7,code or model only,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS295,RN7,full-match arranger,"{""link"": ""https://www.finalemusic.com/?p=5036"", ""system"": ""Finale Explode Music (MakeMusic Finale)""}",0
+RS296,RN7,notated output,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS297,RN7,user-chosen instrumentation,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS298,RN7,score input,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS299,RN7,rules method,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS300,RN7,commercially available,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS301,RN7,subscription,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS302,RN7,free tier,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS303,RN7,desktop application,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS304,RN7,notation-app plugin or feature,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS305,RN7,mobile app,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS306,RN7,free or open-source,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS307,RN7,price not stated,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS308,RN7,one-time purchase,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",1
+RS309,RN7,unclear method,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS310,RN7,web service,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS311,RN7,ML method,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS312,RN7,interactive or real-time,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS313,RN7,DAW plugin,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS314,RN7,research prototype,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS315,RN7,code or model only,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS316,RN7,full-match arranger,"{""link"": ""https://www.capella-software.com/us/index.cfm/products/capella-audio2score-pro"", ""system"": ""capella audio2score pro""}",0
+RS317,RN7,notated output,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",1
+RS318,RN7,user-chosen instrumentation,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS319,RN7,score input,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",1
+RS320,RN7,rules method,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS321,RN7,commercially available,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",1
+RS322,RN7,subscription,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS323,RN7,free tier,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",1
+RS324,RN7,desktop application,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS325,RN7,notation-app plugin or feature,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS326,RN7,mobile app,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS327,RN7,free or open-source,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS328,RN7,price not stated,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS329,RN7,one-time purchase,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS330,RN7,unclear method,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",1
+RS331,RN7,web service,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",1
+RS332,RN7,ML method,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS333,RN7,interactive or real-time,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS334,RN7,DAW plugin,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS335,RN7,research prototype,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS336,RN7,code or model only,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS337,RN7,full-match arranger,"{""link"": ""https://www.songscription.ai/piano-arrangement-generator"", ""system"": ""Songscription piano arrangement""}",0
+RS338,RN7,notated output,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",1
+RS339,RN7,user-chosen instrumentation,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS340,RN7,score input,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS341,RN7,rules method,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS342,RN7,commercially available,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",1
+RS343,RN7,subscription,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS344,RN7,free tier,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",1
+RS345,RN7,desktop application,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS346,RN7,notation-app plugin or feature,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS347,RN7,mobile app,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS348,RN7,free or open-source,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS349,RN7,price not stated,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS350,RN7,one-time purchase,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS351,RN7,unclear method,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",1
+RS352,RN7,web service,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",1
+RS353,RN7,ML method,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS354,RN7,interactive or real-time,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS355,RN7,DAW plugin,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS356,RN7,research prototype,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS357,RN7,code or model only,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS358,RN7,full-match arranger,"{""link"": ""https://klang.io/?p=38689"", ""system"": ""Klangio piano arrangement (Piano2Notes, Melody Scanner)""}",0
+RS359,RN7,notated output,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",1
+RS360,RN7,user-chosen instrumentation,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",1
+RS361,RN7,score input,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS362,RN7,rules method,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS363,RN7,commercially available,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS364,RN7,subscription,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS365,RN7,free tier,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS366,RN7,desktop application,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS367,RN7,notation-app plugin or feature,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS368,RN7,mobile app,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS369,RN7,free or open-source,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS370,RN7,price not stated,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",1
+RS371,RN7,one-time purchase,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS372,RN7,unclear method,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS373,RN7,web service,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",1
+RS374,RN7,ML method,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",1
+RS375,RN7,interactive or real-time,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS376,RN7,DAW plugin,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS377,RN7,research prototype,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS378,RN7,code or model only,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS379,RN7,full-match arranger,"{""link"": ""https://www.producthunt.com/products/virtuoso-2/launches"", ""system"": ""Virtuoso (AI sheet music generator)""}",0
+RS380,RN7,notated output,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS381,RN7,user-chosen instrumentation,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS382,RN7,score input,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS383,RN7,rules method,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS384,RN7,commercially available,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS385,RN7,subscription,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS386,RN7,free tier,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS387,RN7,desktop application,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS388,RN7,notation-app plugin or feature,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS389,RN7,mobile app,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS390,RN7,free or open-source,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS391,RN7,price not stated,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS392,RN7,one-time purchase,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS393,RN7,unclear method,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS394,RN7,web service,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS395,RN7,ML method,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS396,RN7,interactive or real-time,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS397,RN7,DAW plugin,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS398,RN7,research prototype,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS399,RN7,code or model only,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",0
+RS400,RN7,full-match arranger,"{""link"": ""https://musescore.org/en/project/aihud-notation-copilot"", ""system"": ""AiHud Notation Copilot / Scorehand (MuseScore plugin)""}",1
+RS401,RN7,notated output,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",1
+RS402,RN7,user-chosen instrumentation,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS403,RN7,score input,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS404,RN7,rules method,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",1
+RS405,RN7,commercially available,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",1
+RS406,RN7,subscription,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS407,RN7,free tier,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS408,RN7,desktop application,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",1
+RS409,RN7,notation-app plugin or feature,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS410,RN7,mobile app,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS411,RN7,free or open-source,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS412,RN7,price not stated,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",1
+RS413,RN7,one-time purchase,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS414,RN7,unclear method,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS415,RN7,web service,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS416,RN7,ML method,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS417,RN7,interactive or real-time,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS418,RN7,DAW plugin,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS419,RN7,research prototype,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS420,RN7,code or model only,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS421,RN7,full-match arranger,"{""link"": ""https://www.pgmusic.com/bbmac.features.htm"", ""system"": ""Band-in-a-Box (PG Music)""}",0
+RS422,RN7,notated output,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS423,RN7,user-chosen instrumentation,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS424,RN7,score input,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS425,RN7,rules method,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",1
+RS426,RN7,commercially available,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",1
+RS427,RN7,subscription,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS428,RN7,free tier,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS429,RN7,desktop application,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",1
+RS430,RN7,notation-app plugin or feature,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS431,RN7,mobile app,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS432,RN7,free or open-source,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS433,RN7,price not stated,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS434,RN7,one-time purchase,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",1
+RS435,RN7,unclear method,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS436,RN7,web service,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS437,RN7,ML method,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS438,RN7,interactive or real-time,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",1
+RS439,RN7,DAW plugin,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS440,RN7,research prototype,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS441,RN7,code or model only,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS442,RN7,full-match arranger,"{""link"": ""https://www.kvraudio.com/product/varranger-by-varranger"", ""system"": ""vArranger""}",0
+RS443,RN7,notated output,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS444,RN7,user-chosen instrumentation,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS445,RN7,score input,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS446,RN7,rules method,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",1
+RS447,RN7,commercially available,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",1
+RS448,RN7,subscription,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS449,RN7,free tier,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS450,RN7,desktop application,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS451,RN7,notation-app plugin or feature,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS452,RN7,mobile app,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS453,RN7,free or open-source,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS454,RN7,price not stated,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS455,RN7,one-time purchase,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",1
+RS456,RN7,unclear method,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS457,RN7,web service,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS458,RN7,ML method,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS459,RN7,interactive or real-time,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",1
+RS460,RN7,DAW plugin,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",1
+RS461,RN7,research prototype,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS462,RN7,code or model only,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS463,RN7,full-match arranger,"{""link"": ""https://www.kvraudio.com/product/rechord-by-rechord"", ""system"": ""ReChord""}",0
+RS464,RN7,notated output,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS465,RN7,user-chosen instrumentation,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS466,RN7,score input,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS467,RN7,rules method,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",1
+RS468,RN7,commercially available,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",1
+RS469,RN7,subscription,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS470,RN7,free tier,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",1
+RS471,RN7,desktop application,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS472,RN7,notation-app plugin or feature,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS473,RN7,mobile app,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS474,RN7,free or open-source,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS475,RN7,price not stated,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS476,RN7,one-time purchase,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",1
+RS477,RN7,unclear method,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS478,RN7,web service,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS479,RN7,ML method,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS480,RN7,interactive or real-time,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",1
+RS481,RN7,DAW plugin,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",1
+RS482,RN7,research prototype,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS483,RN7,code or model only,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS484,RN7,full-match arranger,"{""link"": ""https://www.kvraudio.com/product/chord-dock-performance-by-k2get"", ""system"": ""Chord Dock (Arranger Mode), k2get""}",0
+RS485,RN7,notated output,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS486,RN7,user-chosen instrumentation,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS487,RN7,score input,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS488,RN7,rules method,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",1
+RS489,RN7,commercially available,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",1
+RS490,RN7,subscription,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS491,RN7,free tier,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",1
+RS492,RN7,desktop application,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",1
+RS493,RN7,notation-app plugin or feature,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS494,RN7,mobile app,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS495,RN7,free or open-source,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS496,RN7,price not stated,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS497,RN7,one-time purchase,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",1
+RS498,RN7,unclear method,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS499,RN7,web service,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS500,RN7,ML method,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS501,RN7,interactive or real-time,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",1
+RS502,RN7,DAW plugin,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS503,RN7,research prototype,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS504,RN7,code or model only,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS505,RN7,full-match arranger,"{""link"": ""https://www.kvraudio.com/product/groovyband-live-by-groovyband-live/news"", ""system"": ""Groovyband Live!""}",0
+RS506,RN7,notated output,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS507,RN7,user-chosen instrumentation,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS508,RN7,score input,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS509,RN7,rules method,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",1
+RS510,RN7,commercially available,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",1
+RS511,RN7,subscription,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS512,RN7,free tier,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS513,RN7,desktop application,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS514,RN7,notation-app plugin or feature,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS515,RN7,mobile app,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS516,RN7,free or open-source,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS517,RN7,price not stated,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS518,RN7,one-time purchase,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",1
+RS519,RN7,unclear method,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS520,RN7,web service,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS521,RN7,ML method,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS522,RN7,interactive or real-time,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",1
+RS523,RN7,DAW plugin,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",1
+RS524,RN7,research prototype,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS525,RN7,code or model only,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS526,RN7,full-match arranger,"{""link"": ""https://www.kvraudio.com/product/scale-rider-by-interloud-audio"", ""system"": ""Scale Rider (Interloud Audio)""}",0
+RS527,RN7,notated output,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS528,RN7,user-chosen instrumentation,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS529,RN7,score input,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS530,RN7,rules method,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",1
+RS531,RN7,commercially available,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",1
+RS532,RN7,subscription,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS533,RN7,free tier,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS534,RN7,desktop application,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",1
+RS535,RN7,notation-app plugin or feature,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS536,RN7,mobile app,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS537,RN7,free or open-source,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS538,RN7,price not stated,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS539,RN7,one-time purchase,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",1
+RS540,RN7,unclear method,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS541,RN7,web service,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS542,RN7,ML method,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS543,RN7,interactive or real-time,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",1
+RS544,RN7,DAW plugin,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS545,RN7,research prototype,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS546,RN7,code or model only,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS547,RN7,full-match arranger,"{""link"": ""https://www.kvraudio.com/product/nimbu-4-40-by-nimbu"", ""system"": ""nimbu""}",0
+RS548,RN7,notated output,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS549,RN7,user-chosen instrumentation,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS550,RN7,score input,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS551,RN7,rules method,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",1
+RS552,RN7,commercially available,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",1
+RS553,RN7,subscription,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS554,RN7,free tier,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS555,RN7,desktop application,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS556,RN7,notation-app plugin or feature,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS557,RN7,mobile app,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS558,RN7,free or open-source,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS559,RN7,price not stated,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS560,RN7,one-time purchase,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",1
+RS561,RN7,unclear method,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS562,RN7,web service,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS563,RN7,ML method,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS564,RN7,interactive or real-time,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",1
+RS565,RN7,DAW plugin,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",1
+RS566,RN7,research prototype,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS567,RN7,code or model only,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS568,RN7,full-match arranger,"{""link"": ""https://mixedinkey.com/captain-plugins/"", ""system"": ""Captain Plugins (Mixed In Key)""}",0
+RS569,RN7,notated output,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",1
+RS570,RN7,user-chosen instrumentation,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",1
+RS571,RN7,score input,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS572,RN7,rules method,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS573,RN7,commercially available,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",1
+RS574,RN7,subscription,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS575,RN7,free tier,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",1
+RS576,RN7,desktop application,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS577,RN7,notation-app plugin or feature,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS578,RN7,mobile app,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS579,RN7,free or open-source,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS580,RN7,price not stated,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS581,RN7,one-time purchase,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS582,RN7,unclear method,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",1
+RS583,RN7,web service,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",1
+RS584,RN7,ML method,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS585,RN7,interactive or real-time,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS586,RN7,DAW plugin,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS587,RN7,research prototype,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS588,RN7,code or model only,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS589,RN7,full-match arranger,"{""link"": ""https://www.imagine.art/music-studio/sheet-music-generator"", ""system"": ""ImagineArt AI Sheet Music Generator""}",0
+RS590,RN7,notated output,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS591,RN7,user-chosen instrumentation,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS592,RN7,score input,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS593,RN7,rules method,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS594,RN7,commercially available,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS595,RN7,subscription,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS596,RN7,free tier,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS597,RN7,desktop application,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS598,RN7,notation-app plugin or feature,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS599,RN7,mobile app,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS600,RN7,free or open-source,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS601,RN7,price not stated,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",1
+RS602,RN7,one-time purchase,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS603,RN7,unclear method,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS604,RN7,web service,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS605,RN7,ML method,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",1
+RS606,RN7,interactive or real-time,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",1
+RS607,RN7,DAW plugin,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS608,RN7,research prototype,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",1
+RS609,RN7,code or model only,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",1
+RS610,RN7,full-match arranger,"{""link"": ""https://www.arxiv.org/pdf/2107.05916v1"", ""system"": ""Arranger: automatic instrumentation by part separation (Dong et al. 2021)""}",0
+RS611,RN7,notated output,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS612,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS613,RN7,score input,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS614,RN7,rules method,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS615,RN7,commercially available,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS616,RN7,subscription,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS617,RN7,free tier,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS618,RN7,desktop application,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS619,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS620,RN7,mobile app,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS621,RN7,free or open-source,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS622,RN7,price not stated,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",1
+RS623,RN7,one-time purchase,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS624,RN7,unclear method,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS625,RN7,web service,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS626,RN7,ML method,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",1
+RS627,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS628,RN7,DAW plugin,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS629,RN7,research prototype,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",1
+RS630,RN7,code or model only,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",1
+RS631,RN7,full-match arranger,"{""link"": ""https://arxiv.org/pdf/2205.05448"", ""system"": ""SymphonyNet (Liu et al. 2022)""}",0
+RS632,RN7,notated output,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",1
+RS633,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS634,RN7,score input,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS635,RN7,rules method,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS636,RN7,commercially available,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS637,RN7,subscription,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS638,RN7,free tier,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS639,RN7,desktop application,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS640,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS641,RN7,mobile app,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS642,RN7,free or open-source,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS643,RN7,price not stated,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",1
+RS644,RN7,one-time purchase,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS645,RN7,unclear method,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS646,RN7,web service,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS647,RN7,ML method,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",1
+RS648,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",1
+RS649,RN7,DAW plugin,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS650,RN7,research prototype,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",1
+RS651,RN7,code or model only,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS652,RN7,full-match arranger,"{""link"": ""https://arxiv.org/pdf/1609.01203v1"", ""system"": ""Live Orchestral Piano (Crestel and Esling)""}",0
+RS653,RN7,notated output,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",1
+RS654,RN7,user-chosen instrumentation,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",1
+RS655,RN7,score input,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",1
+RS656,RN7,rules method,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS657,RN7,commercially available,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS658,RN7,subscription,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS659,RN7,free tier,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS660,RN7,desktop application,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS661,RN7,notation-app plugin or feature,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS662,RN7,mobile app,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS663,RN7,free or open-source,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS664,RN7,price not stated,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",1
+RS665,RN7,one-time purchase,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS666,RN7,unclear method,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS667,RN7,web service,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS668,RN7,ML method,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",1
+RS669,RN7,interactive or real-time,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS670,RN7,DAW plugin,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS671,RN7,research prototype,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",1
+RS672,RN7,code or model only,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS673,RN7,full-match arranger,"{""link"": ""https://zenodo.org/records/10113109/files/cmmr2023_3c-P5.pdf"", ""system"": ""Wind band orchestration with user-specified instrumentation (Nabeoka, Nakamura, Yoshii 2023)""}",0
+RS674,RN7,notated output,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS675,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",1
+RS676,RN7,score input,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS677,RN7,rules method,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS678,RN7,commercially available,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS679,RN7,subscription,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS680,RN7,free tier,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS681,RN7,desktop application,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS682,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS683,RN7,mobile app,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS684,RN7,free or open-source,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS685,RN7,price not stated,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",1
+RS686,RN7,one-time purchase,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS687,RN7,unclear method,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS688,RN7,web service,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS689,RN7,ML method,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",1
+RS690,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS691,RN7,DAW plugin,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS692,RN7,research prototype,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",1
+RS693,RN7,code or model only,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS694,RN7,full-match arranger,"{""link"": ""https://arxiv.org/html/2408.15176v5"", ""system"": ""Unified symbolic music arrangement (Ou et al. 2024-25)""}",0
+RS695,RN7,notated output,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",1
+RS696,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",1
+RS697,RN7,score input,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS698,RN7,rules method,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS699,RN7,commercially available,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS700,RN7,subscription,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS701,RN7,free tier,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS702,RN7,desktop application,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS703,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS704,RN7,mobile app,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS705,RN7,free or open-source,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS706,RN7,price not stated,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",1
+RS707,RN7,one-time purchase,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS708,RN7,unclear method,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS709,RN7,web service,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS710,RN7,ML method,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",1
+RS711,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS712,RN7,DAW plugin,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS713,RN7,research prototype,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",1
+RS714,RN7,code or model only,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",1
+RS715,RN7,full-match arranger,"{""link"": ""https://arxiv.org/html/2310.16334v4"", ""system"": ""Structured multi-track accompaniment arrangement (Zhao, Xia, Wang, Wang 2024)""}",0
+RS716,RN7,notated output,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS717,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS718,RN7,score input,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS719,RN7,rules method,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS720,RN7,commercially available,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS721,RN7,subscription,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS722,RN7,free tier,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS723,RN7,desktop application,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS724,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS725,RN7,mobile app,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS726,RN7,free or open-source,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS727,RN7,price not stated,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",1
+RS728,RN7,one-time purchase,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS729,RN7,unclear method,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS730,RN7,web service,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS731,RN7,ML method,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",1
+RS732,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS733,RN7,DAW plugin,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS734,RN7,research prototype,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",1
+RS735,RN7,code or model only,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",1
+RS736,RN7,full-match arranger,"{""link"": ""https://arxiv.org/pdf/2112.15110"", ""system"": ""Audio-to-symbolic piano arrangement (Wang et al. 2022)""}",0
+RS737,RN7,notated output,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS738,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS739,RN7,score input,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS740,RN7,rules method,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS741,RN7,commercially available,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS742,RN7,subscription,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS743,RN7,free tier,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS744,RN7,desktop application,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS745,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS746,RN7,mobile app,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS747,RN7,free or open-source,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS748,RN7,price not stated,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",1
+RS749,RN7,one-time purchase,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS750,RN7,unclear method,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS751,RN7,web service,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS752,RN7,ML method,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",1
+RS753,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS754,RN7,DAW plugin,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS755,RN7,research prototype,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",1
+RS756,RN7,code or model only,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS757,RN7,full-match arranger,"{""link"": ""https://arxiv.org/abs/1807.11161v1"", ""system"": ""Lead sheet arrangement by conditional GAN (Liu and Yang 2018)""}",0
+RS758,RN7,notated output,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",1
+RS759,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS760,RN7,score input,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS761,RN7,rules method,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS762,RN7,commercially available,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS763,RN7,subscription,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS764,RN7,free tier,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS765,RN7,desktop application,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS766,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS767,RN7,mobile app,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS768,RN7,free or open-source,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS769,RN7,price not stated,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",1
+RS770,RN7,one-time purchase,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS771,RN7,unclear method,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS772,RN7,web service,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS773,RN7,ML method,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",1
+RS774,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS775,RN7,DAW plugin,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS776,RN7,research prototype,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",1
+RS777,RN7,code or model only,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",1
+RS778,RN7,full-match arranger,"{""link"": ""https://arxiv.org/abs/1905.13567v1"", ""system"": ""Instrumentation change by disentangled timbre representations (Hung et al. 2019)""}",0
+RS779,RN7,notated output,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",1
+RS780,RN7,user-chosen instrumentation,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS781,RN7,score input,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS782,RN7,rules method,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",1
+RS783,RN7,commercially available,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS784,RN7,subscription,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS785,RN7,free tier,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS786,RN7,desktop application,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS787,RN7,notation-app plugin or feature,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS788,RN7,mobile app,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS789,RN7,free or open-source,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS790,RN7,price not stated,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",1
+RS791,RN7,one-time purchase,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS792,RN7,unclear method,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS793,RN7,web service,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS794,RN7,ML method,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS795,RN7,interactive or real-time,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS796,RN7,DAW plugin,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS797,RN7,research prototype,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",1
+RS798,RN7,code or model only,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS799,RN7,full-match arranger,"{""link"": ""https://staff.aist.go.jp/m.goto/PAPER/MMM2019takamori.pdf"", ""system"": ""Audio-based piano reduction score (Takamori et al. 2019)""}",0
+RS800,RN7,notated output,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS801,RN7,user-chosen instrumentation,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS802,RN7,score input,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS803,RN7,rules method,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS804,RN7,commercially available,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS805,RN7,subscription,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS806,RN7,free tier,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS807,RN7,desktop application,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS808,RN7,notation-app plugin or feature,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS809,RN7,mobile app,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS810,RN7,free or open-source,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS811,RN7,price not stated,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",1
+RS812,RN7,one-time purchase,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS813,RN7,unclear method,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS814,RN7,web service,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS815,RN7,ML method,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",1
+RS816,RN7,interactive or real-time,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS817,RN7,DAW plugin,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS818,RN7,research prototype,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",1
+RS819,RN7,code or model only,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",1
+RS820,RN7,full-match arranger,"{""link"": ""https://arxiv.org/html/2512.21324v1"", ""system"": ""Piano reduction with BERT (Wong et al. 2025)""}",0
+RS821,RN7,notated output,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",1
+RS822,RN7,user-chosen instrumentation,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS823,RN7,score input,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS824,RN7,rules method,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS825,RN7,commercially available,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS826,RN7,subscription,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS827,RN7,free tier,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS828,RN7,desktop application,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS829,RN7,notation-app plugin or feature,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS830,RN7,mobile app,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS831,RN7,free or open-source,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS832,RN7,price not stated,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",1
+RS833,RN7,one-time purchase,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS834,RN7,unclear method,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS835,RN7,web service,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS836,RN7,ML method,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",1
+RS837,RN7,interactive or real-time,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS838,RN7,DAW plugin,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS839,RN7,research prototype,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",1
+RS840,RN7,code or model only,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS841,RN7,full-match arranger,"{""link"": ""https://eita-nakamura.github.io/articles/Nakamura-Sagayama_AutomaticPianoReduction_ICMC2015.pdf"", ""system"": ""Piano reduction by merged-output HMM (Nakamura and Sagayama 2015)""}",0
+RS842,RN7,notated output,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS843,RN7,user-chosen instrumentation,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS844,RN7,score input,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS845,RN7,rules method,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS846,RN7,commercially available,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS847,RN7,subscription,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS848,RN7,free tier,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS849,RN7,desktop application,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS850,RN7,notation-app plugin or feature,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS851,RN7,mobile app,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS852,RN7,free or open-source,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS853,RN7,price not stated,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",1
+RS854,RN7,one-time purchase,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS855,RN7,unclear method,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS856,RN7,web service,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS857,RN7,ML method,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",1
+RS858,RN7,interactive or real-time,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS859,RN7,DAW plugin,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS860,RN7,research prototype,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",1
+RS861,RN7,code or model only,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS862,RN7,full-match arranger,"{""link"": ""https://ar5iv.arxiv.org/html/1808.05006"", ""system"": ""Statistical piano reduction with difficulty control (Nakamura and Yoshii 2018)""}",0
+RS863,RN7,notated output,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",1
+RS864,RN7,user-chosen instrumentation,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS865,RN7,score input,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS866,RN7,rules method,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS867,RN7,commercially available,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS868,RN7,subscription,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS869,RN7,free tier,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS870,RN7,desktop application,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS871,RN7,notation-app plugin or feature,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS872,RN7,mobile app,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS873,RN7,free or open-source,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS874,RN7,price not stated,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",1
+RS875,RN7,one-time purchase,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS876,RN7,unclear method,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS877,RN7,web service,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS878,RN7,ML method,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",1
+RS879,RN7,interactive or real-time,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS880,RN7,DAW plugin,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS881,RN7,research prototype,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",1
+RS882,RN7,code or model only,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS883,RN7,full-match arranger,"{""link"": ""https://ir.lib.nycu.edu.tw/bitstream/11536/15708/1/000300400200008.pdf"", ""system"": ""Score-reduction arrangement framework (Huang, Chiu, Shan 2012)""}",0
+RS884,RN7,notated output,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS885,RN7,user-chosen instrumentation,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS886,RN7,score input,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS887,RN7,rules method,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS888,RN7,commercially available,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS889,RN7,subscription,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS890,RN7,free tier,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS891,RN7,desktop application,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS892,RN7,notation-app plugin or feature,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS893,RN7,mobile app,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS894,RN7,free or open-source,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS895,RN7,price not stated,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",1
+RS896,RN7,one-time purchase,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS897,RN7,unclear method,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS898,RN7,web service,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS899,RN7,ML method,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",1
+RS900,RN7,interactive or real-time,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS901,RN7,DAW plugin,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS902,RN7,research prototype,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",1
+RS903,RN7,code or model only,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS904,RN7,full-match arranger,"{""link"": ""https://aminer.org/pub/62b54a135aee126c0fe7c8c2/difficulty-aware-neural-band-to-piano-score-arrangement-based-on-note-and"", ""system"": ""Difficulty-aware neural band-to-piano score arrangement (2022)""}",0
+RS905,RN7,notated output,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS906,RN7,user-chosen instrumentation,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS907,RN7,score input,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",1
+RS908,RN7,rules method,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",1
+RS909,RN7,commercially available,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS910,RN7,subscription,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS911,RN7,free tier,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS912,RN7,desktop application,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS913,RN7,notation-app plugin or feature,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS914,RN7,mobile app,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS915,RN7,free or open-source,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS916,RN7,price not stated,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",1
+RS917,RN7,one-time purchase,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS918,RN7,unclear method,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS919,RN7,web service,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS920,RN7,ML method,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS921,RN7,interactive or real-time,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS922,RN7,DAW plugin,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS923,RN7,research prototype,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",1
+RS924,RN7,code or model only,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",1
+RS925,RN7,full-match arranger,"{""link"": ""https://zenodo.org/records/10113103"", ""system"": ""Automated arrangements for sets of monophonic instruments (McCloskey et al. 2023)""}",0
+RS926,RN7,notated output,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS927,RN7,user-chosen instrumentation,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS928,RN7,score input,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS929,RN7,rules method,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS930,RN7,commercially available,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS931,RN7,subscription,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS932,RN7,free tier,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS933,RN7,desktop application,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS934,RN7,notation-app plugin or feature,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS935,RN7,mobile app,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS936,RN7,free or open-source,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS937,RN7,price not stated,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",1
+RS938,RN7,one-time purchase,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS939,RN7,unclear method,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS940,RN7,web service,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS941,RN7,ML method,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",1
+RS942,RN7,interactive or real-time,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS943,RN7,DAW plugin,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS944,RN7,research prototype,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",1
+RS945,RN7,code or model only,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
+RS946,RN7,full-match arranger,"{""link"": ""https://abstracts.societyforscience.org/Home/PrintPdf/16858"", ""system"": ""Auto Arranger Based on Deep Learning Methods (student project, Shumnov)""}",0
