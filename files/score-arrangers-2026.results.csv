@@ -1,0 +1,191 @@
+lab_result,run,quantity,conditions,value
+RS1,RN1,dossiers in second-coder sample,{},9
+RS2,RN1,dossiers captured,{},36
+RS3,RN2,count: n,"{""code"": ""TM12"", ""distinct_by"": ""source"", ""unit"": ""source""}",1
+RS4,RN2,count: n_all,"{""distinct_by"": ""source"", ""unit"": ""source""}",1
+RS5,RN3,number of arranging systems,{},0
+RS6,RN3,systems with code,"{""code"": ""DAW plugin""}",0
+RS7,RN3,systems with code,"{""code"": ""ML method""}",0
+RS8,RN3,systems with code,"{""code"": ""code or model only""}",0
+RS9,RN3,systems with code,"{""code"": ""commercially available""}",0
+RS10,RN3,systems with code,"{""code"": ""desktop application""}",0
+RS11,RN3,systems with code,"{""code"": ""free or open-source""}",0
+RS12,RN3,systems with code,"{""code"": ""free tier""}",0
+RS13,RN3,systems with code,"{""code"": ""full-match arranger""}",0
+RS14,RN3,systems with code,"{""code"": ""interactive or real-time""}",0
+RS15,RN3,systems with code,"{""code"": ""mobile app""}",0
+RS16,RN3,systems with code,"{""code"": ""notated output""}",0
+RS17,RN3,systems with code,"{""code"": ""notation-app plugin or feature""}",0
+RS18,RN3,systems with code,"{""code"": ""one-time purchase""}",0
+RS19,RN3,systems with code,"{""code"": ""price not stated""}",0
+RS20,RN3,systems with code,"{""code"": ""research prototype""}",0
+RS21,RN3,systems with code,"{""code"": ""rules method""}",0
+RS22,RN3,systems with code,"{""code"": ""score input""}",0
+RS23,RN3,systems with code,"{""code"": ""subscription""}",0
+RS24,RN3,systems with code,"{""code"": ""unclear method""}",0
+RS25,RN3,systems with code,"{""code"": ""user-chosen instrumentation""}",0
+RS26,RN3,systems with code,"{""code"": ""web service""}",0
+RS27,RN3,systems by method and availability,"{""availability"": ""commercially available"", ""method"": ""ML method""}",0
+RS28,RN3,systems by method and availability,"{""availability"": ""free or open-source"", ""method"": ""ML method""}",0
+RS29,RN3,systems by method and availability,"{""availability"": ""research prototype"", ""method"": ""ML method""}",0
+RS30,RN3,systems by method and availability,"{""availability"": ""commercially available"", ""method"": ""rules method""}",0
+RS31,RN3,systems by method and availability,"{""availability"": ""free or open-source"", ""method"": ""rules method""}",0
+RS32,RN3,systems by method and availability,"{""availability"": ""research prototype"", ""method"": ""rules method""}",0
+RS33,RN3,systems by method and availability,"{""availability"": ""commercially available"", ""method"": ""unclear method""}",0
+RS34,RN3,systems by method and availability,"{""availability"": ""free or open-source"", ""method"": ""unclear method""}",0
+RS35,RN3,systems by method and availability,"{""availability"": ""research prototype"", ""method"": ""unclear method""}",0
+RS36,RN3,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""desktop application""}",0
+RS37,RN3,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""desktop application""}",0
+RS38,RN3,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""desktop application""}",0
+RS39,RN3,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""web service""}",0
+RS40,RN3,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""web service""}",0
+RS41,RN3,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""web service""}",0
+RS42,RN3,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""DAW plugin""}",0
+RS43,RN3,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""DAW plugin""}",0
+RS44,RN3,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""DAW plugin""}",0
+RS45,RN3,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""notation-app plugin or feature""}",0
+RS46,RN3,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""notation-app plugin or feature""}",0
+RS47,RN3,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""notation-app plugin or feature""}",0
+RS48,RN3,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""mobile app""}",0
+RS49,RN3,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""mobile app""}",0
+RS50,RN3,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""mobile app""}",0
+RS51,RN3,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""code or model only""}",0
+RS52,RN3,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""code or model only""}",0
+RS53,RN3,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""code or model only""}",0
+RS54,RN3,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""one-time purchase""}",0
+RS55,RN3,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""one-time purchase""}",0
+RS56,RN3,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""one-time purchase""}",0
+RS57,RN3,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""subscription""}",0
+RS58,RN3,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""subscription""}",0
+RS59,RN3,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""subscription""}",0
+RS60,RN3,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""free tier""}",0
+RS61,RN3,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""free tier""}",0
+RS62,RN3,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""free tier""}",0
+RS63,RN3,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""price not stated""}",0
+RS64,RN3,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""price not stated""}",0
+RS65,RN3,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""price not stated""}",0
+RS66,RN3,notated chosen-instrument systems by input and method,"{""input"": ""score input"", ""method"": ""ML method""}",0
+RS67,RN3,notated chosen-instrument systems by input and method,"{""input"": ""score input"", ""method"": ""rules method""}",0
+RS68,RN3,notated chosen-instrument systems by input and method,"{""input"": ""score input"", ""method"": ""unclear method""}",0
+RS69,RN3,notated chosen-instrument systems by input and method,"{""input"": ""other input"", ""method"": ""ML method""}",0
+RS70,RN3,notated chosen-instrument systems by input and method,"{""input"": ""other input"", ""method"": ""rules method""}",0
+RS71,RN3,notated chosen-instrument systems by input and method,"{""input"": ""other input"", ""method"": ""unclear method""}",0
+RS72,RN3,systems without exactly one code of a group,"{""group"": ""method""}",0
+RS73,RN3,systems without exactly one code of a group,"{""group"": ""availability""}",0
+RS74,RN4,dossiers coded by both coders,{},0
+RS75,RN4,systems without exactly one code of a group,"{""group"": ""method"", ""pass"": 2}",0
+RS76,RN4,systems without exactly one code of a group,"{""group"": ""availability"", ""pass"": 2}",0
+RS77,RN5,number of arranging systems,{},36
+RS78,RN5,systems with code,"{""code"": ""DAW plugin""}",4
+RS79,RN5,systems with code,"{""code"": ""ML method""}",17
+RS80,RN5,systems with code,"{""code"": ""code or model only""}",7
+RS81,RN5,systems with code,"{""code"": ""commercially available""}",15
+RS82,RN5,systems with code,"{""code"": ""desktop application""}",7
+RS83,RN5,systems with code,"{""code"": ""free or open-source""}",1
+RS84,RN5,systems with code,"{""code"": ""free tier""}",9
+RS85,RN5,systems with code,"{""code"": ""full-match arranger""}",1
+RS86,RN5,systems with code,"{""code"": ""interactive or real-time""}",9
+RS87,RN5,systems with code,"{""code"": ""mobile app""}",2
+RS88,RN5,systems with code,"{""code"": ""notated output""}",19
+RS89,RN5,systems with code,"{""code"": ""notation-app plugin or feature""}",6
+RS90,RN5,systems with code,"{""code"": ""one-time purchase""}",8
+RS91,RN5,systems with code,"{""code"": ""price not stated""}",21
+RS92,RN5,systems with code,"{""code"": ""research prototype""}",17
+RS93,RN5,systems with code,"{""code"": ""rules method""}",16
+RS94,RN5,systems with code,"{""code"": ""score input""}",9
+RS95,RN5,systems with code,"{""code"": ""subscription""}",3
+RS96,RN5,systems with code,"{""code"": ""unclear method""}",3
+RS97,RN5,systems with code,"{""code"": ""user-chosen instrumentation""}",10
+RS98,RN5,systems with code,"{""code"": ""web service""}",4
+RS99,RN5,systems by method and availability,"{""availability"": ""commercially available"", ""method"": ""ML method""}",1
+RS100,RN5,systems by method and availability,"{""availability"": ""free or open-source"", ""method"": ""ML method""}",0
+RS101,RN5,systems by method and availability,"{""availability"": ""research prototype"", ""method"": ""ML method""}",15
+RS102,RN5,systems by method and availability,"{""availability"": ""commercially available"", ""method"": ""rules method""}",11
+RS103,RN5,systems by method and availability,"{""availability"": ""free or open-source"", ""method"": ""rules method""}",1
+RS104,RN5,systems by method and availability,"{""availability"": ""research prototype"", ""method"": ""rules method""}",2
+RS105,RN5,systems by method and availability,"{""availability"": ""commercially available"", ""method"": ""unclear method""}",3
+RS106,RN5,systems by method and availability,"{""availability"": ""free or open-source"", ""method"": ""unclear method""}",0
+RS107,RN5,systems by method and availability,"{""availability"": ""research prototype"", ""method"": ""unclear method""}",0
+RS108,RN5,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""desktop application""}",0
+RS109,RN5,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""desktop application""}",7
+RS110,RN5,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""desktop application""}",0
+RS111,RN5,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""web service""}",1
+RS112,RN5,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""web service""}",0
+RS113,RN5,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""web service""}",3
+RS114,RN5,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""DAW plugin""}",0
+RS115,RN5,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""DAW plugin""}",4
+RS116,RN5,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""DAW plugin""}",0
+RS117,RN5,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""notation-app plugin or feature""}",1
+RS118,RN5,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""notation-app plugin or feature""}",5
+RS119,RN5,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""notation-app plugin or feature""}",0
+RS120,RN5,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""mobile app""}",0
+RS121,RN5,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""mobile app""}",2
+RS122,RN5,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""mobile app""}",0
+RS123,RN5,systems by platform and method,"{""method"": ""ML method"", ""platform"": ""code or model only""}",6
+RS124,RN5,systems by platform and method,"{""method"": ""rules method"", ""platform"": ""code or model only""}",1
+RS125,RN5,systems by platform and method,"{""method"": ""unclear method"", ""platform"": ""code or model only""}",0
+RS126,RN5,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""one-time purchase""}",0
+RS127,RN5,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""one-time purchase""}",8
+RS128,RN5,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""one-time purchase""}",0
+RS129,RN5,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""subscription""}",1
+RS130,RN5,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""subscription""}",2
+RS131,RN5,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""subscription""}",0
+RS132,RN5,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""free tier""}",1
+RS133,RN5,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""free tier""}",5
+RS134,RN5,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""free tier""}",3
+RS135,RN5,systems by pricing and method,"{""method"": ""ML method"", ""pricing"": ""price not stated""}",16
+RS136,RN5,systems by pricing and method,"{""method"": ""rules method"", ""pricing"": ""price not stated""}",5
+RS137,RN5,systems by pricing and method,"{""method"": ""unclear method"", ""pricing"": ""price not stated""}",0
+RS138,RN5,notated chosen-instrument systems by input and method,"{""input"": ""score input"", ""method"": ""ML method""}",2
+RS139,RN5,notated chosen-instrument systems by input and method,"{""input"": ""score input"", ""method"": ""rules method""}",3
+RS140,RN5,notated chosen-instrument systems by input and method,"{""input"": ""score input"", ""method"": ""unclear method""}",0
+RS141,RN5,notated chosen-instrument systems by input and method,"{""input"": ""other input"", ""method"": ""ML method""}",2
+RS142,RN5,notated chosen-instrument systems by input and method,"{""input"": ""other input"", ""method"": ""rules method""}",1
+RS143,RN5,notated chosen-instrument systems by input and method,"{""input"": ""other input"", ""method"": ""unclear method""}",1
+RS144,RN5,systems without exactly one code of a group,"{""group"": ""method""}",0
+RS145,RN5,systems without exactly one code of a group,"{""group"": ""availability""}",3
+RS146,RN6,dossiers coded by both coders,{},9
+RS147,RN6,Krippendorff alpha,"{""code"": ""DAW plugin""}",1.0
+RS148,RN6,share of dossiers agreed,"{""code"": ""DAW plugin""}",1.0
+RS149,RN6,Krippendorff alpha,"{""code"": ""ML method""}",0.779221
+RS150,RN6,share of dossiers agreed,"{""code"": ""ML method""}",0.8888888888888888
+RS151,RN6,Krippendorff alpha,"{""code"": ""code or model only""}",1.0
+RS152,RN6,share of dossiers agreed,"{""code"": ""code or model only""}",1.0
+RS153,RN6,Krippendorff alpha,"{""code"": ""commercially available""}",1.0
+RS154,RN6,share of dossiers agreed,"{""code"": ""commercially available""}",1.0
+RS155,RN6,Krippendorff alpha,"{""code"": ""desktop application""}",1.0
+RS156,RN6,share of dossiers agreed,"{""code"": ""desktop application""}",1.0
+RS157,RN6,Krippendorff alpha,"{""code"": ""free or open-source""}",1.0
+RS158,RN6,share of dossiers agreed,"{""code"": ""free or open-source""}",1.0
+RS159,RN6,Krippendorff alpha,"{""code"": ""free tier""}",0.622222
+RS160,RN6,share of dossiers agreed,"{""code"": ""free tier""}",0.8888888888888888
+RS161,RN6,Krippendorff alpha,"{""code"": ""full-match arranger""}",1.0
+RS162,RN6,share of dossiers agreed,"{""code"": ""full-match arranger""}",1.0
+RS163,RN6,Krippendorff alpha,"{""code"": ""interactive or real-time""}",1.0
+RS164,RN6,share of dossiers agreed,"{""code"": ""interactive or real-time""}",1.0
+RS165,RN6,Krippendorff alpha,"{""code"": ""mobile app""}",1.0
+RS166,RN6,share of dossiers agreed,"{""code"": ""mobile app""}",1.0
+RS167,RN6,Krippendorff alpha,"{""code"": ""notated output""}",1.0
+RS168,RN6,share of dossiers agreed,"{""code"": ""notated output""}",1.0
+RS169,RN6,Krippendorff alpha,"{""code"": ""notation-app plugin or feature""}",1.0
+RS170,RN6,share of dossiers agreed,"{""code"": ""notation-app plugin or feature""}",1.0
+RS171,RN6,Krippendorff alpha,"{""code"": ""one-time purchase""}",1.0
+RS172,RN6,share of dossiers agreed,"{""code"": ""one-time purchase""}",1.0
+RS173,RN6,Krippendorff alpha,"{""code"": ""price not stated""}",0.622222
+RS174,RN6,share of dossiers agreed,"{""code"": ""price not stated""}",0.8888888888888888
+RS175,RN6,Krippendorff alpha,"{""code"": ""research prototype""}",1.0
+RS176,RN6,share of dossiers agreed,"{""code"": ""research prototype""}",1.0
+RS177,RN6,Krippendorff alpha,"{""code"": ""rules method""}",0.622222
+RS178,RN6,share of dossiers agreed,"{""code"": ""rules method""}",0.8888888888888888
+RS179,RN6,Krippendorff alpha,"{""code"": ""score input""}",1.0
+RS180,RN6,share of dossiers agreed,"{""code"": ""score input""}",1.0
+RS181,RN6,Krippendorff alpha,"{""code"": ""subscription""}",1.0
+RS182,RN6,share of dossiers agreed,"{""code"": ""subscription""}",1.0
+RS183,RN6,Krippendorff alpha,"{""code"": ""unclear method""}",1.0
+RS184,RN6,share of dossiers agreed,"{""code"": ""unclear method""}",1.0
+RS185,RN6,Krippendorff alpha,"{""code"": ""user-chosen instrumentation""}",1.0
+RS186,RN6,share of dossiers agreed,"{""code"": ""user-chosen instrumentation""}",1.0
+RS187,RN6,Krippendorff alpha,"{""code"": ""web service""}",1.0
+RS188,RN6,share of dossiers agreed,"{""code"": ""web service""}",1.0
+RS189,RN6,systems without exactly one code of a group,"{""group"": ""method"", ""pass"": 2}",0
+RS190,RN6,systems without exactly one code of a group,"{""group"": ""availability"", ""pass"": 2}",0
