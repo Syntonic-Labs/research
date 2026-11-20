@@ -779,7 +779,27 @@
      }
     }
    },
-   "scope": "Systems found by the 20 fixed queries and one level of snowballing, retrieved 19 November 2026; Syntonic Labs products and human arranging services excluded; coded from the developers' own pages as rendered by WebFetch."
+   "scope": {
+    "setting": "software products, online services and research systems that arrange existing music for instruments",
+    "period": "retrieved 19 November 2026",
+    "data_type": "developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets",
+    "population": "arranging systems returned by 20 fixed web queries (WebSearch, standard mode) and one level of snowballing from included roundups",
+    "conditions": [
+     "full-match criteria judged from each system's dossier by one coder"
+    ],
+    "excludes": [
+     "Syntonic Labs products",
+     "human arranging services",
+     "systems not returned by the 20 queries or the roundups they led to"
+    ]
+   },
+   "relations": [
+    {
+     "type": "extends",
+     "reference": "B38",
+     "note": "Zhu (2023) surveys AI music generation tools, both research projects and commercial applications, and their functional features; it does not ask which take a notated score and write notated parts for instruments the user chooses."
+    }
+   ]
   },
   {
    "id": "C2",
@@ -922,7 +942,16 @@
    "limitations": [
     "L1",
     "L2"
-   ]
+   ],
+   "scope": {
+    "setting": "software products, online services and research systems that arrange existing music for instruments",
+    "period": "retrieved 19 November 2026",
+    "data_type": "developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets",
+    "population": "the same 36 arranging systems",
+    "conditions": [
+     "runs RN3 and RN4 of plan PL2, before the scripts were fixed"
+    ]
+   }
   },
   {
    "id": "C3",
@@ -1056,7 +1085,21 @@
     "runs": 2,
     "lab_plan": "PL3"
    },
-   "scope": "The same 36 systems as C1; counts of pass-1 codings by one agent; agreement on a random 25% sample (seed 2026).",
+   "scope": {
+    "setting": "software products, online services and research systems that arrange existing music for instruments",
+    "period": "retrieved 19 November 2026",
+    "data_type": "developers' product pages, documentation and papers, as rendered by WebFetch and WebSearch snippets",
+    "population": "the 36 arranging systems included by the scan (19 products, 17 research systems)",
+    "conditions": [
+     "counts of pass-1 codings by one agent",
+     "agreement on a random 25% sample (seed 2026) coded independently by a second agent"
+    ],
+    "excludes": [
+     "Syntonic Labs products",
+     "human arranging services",
+     "systems not returned by the 20 queries or the roundups they led to"
+    ]
+   },
    "about": {
     "subject": "D1",
     "relation": "counted by code",
@@ -1065,7 +1108,19 @@
     "conditions": [
      "D13"
     ]
-   }
+   },
+   "relations": [
+    {
+     "type": "extends",
+     "reference": "B39",
+     "note": "Wang et al. (2024) review intelligent music generation systems, classing arrangement generation among their purposes and the systems by method (rule-based, Markov models, deep learning, evolutionary computation)."
+    },
+    {
+     "type": "extends",
+     "reference": "B38",
+     "note": "Zhu (2023) surveys AI music generation tools, including commercial applications, and lists their functional features, without counting arranging systems by notated output, score input, instrument choice or method."
+    }
+   ]
   }
  ],
  "evidence": [
@@ -4023,6 +4078,16 @@
      "lab_event": "SC398"
     }
    }
+  },
+  {
+   "id": "B38",
+   "target": "2308.12982",
+   "id_type": "arxiv"
+  },
+  {
+   "id": "B39",
+   "target": "2211.09124",
+   "id_type": "arxiv"
   }
  ],
  "extensions": {
