@@ -343,7 +343,8 @@
   "highlights": [
    "C1",
    "C2"
-  ]
+  ],
+  "summary": "We searched the web in November 2026 for software and research systems that turn existing music into written-out parts for instruments a musician chooses, and classified the 36 we found. Most commercial tools do this with fixed rules, inside notation programs like Sibelius and Dorico or as live accompaniment keyboards and plugins, while almost all research systems use machine learning. Only one commercial product, Scorehand, a chat-based plugin for MuseScore, reads a notated score, uses machine learning, writes notation and lets the user say which instruments to write for. The study was planned in advance, and its hypothesis that no such product existed was refuted."
  },
  "contributors": [
   {
@@ -837,9 +838,11 @@
     }
    ],
    "limitations": [
-    "L3",
-    "L4"
-   ]
+    "L2",
+    "L3"
+   ],
+   "name": "One commercial ML score arranger",
+   "summary": "Of the systems found, only Scorehand takes a score, uses machine learning and writes notated parts for instruments the user names."
   },
   {
    "id": "C2",
@@ -975,8 +978,7 @@
    "limitations": [
     "L1",
     "L2",
-    "L3",
-    "L4"
+    "L3"
    ],
    "scope": {
     "setting": "software products, online services and research systems that arrange existing music for instruments",
@@ -1013,7 +1015,9 @@
     "conditions": [
      "D13"
     ]
-   }
+   },
+   "name": "Arranging systems by method and features",
+   "summary": "Of 36 systems, commercial ones are mostly rules-based and research ones mostly machine learning; 19 write notation, 10 let the user choose instruments, 9 take a score as input; the two coders agreed closely."
   }
  ],
  "evidence": [
@@ -1823,7 +1827,7 @@
   {
    "id": "L1",
    "category": "deviation",
-   "statement": "Lab plan PL2 was made void (DC3): a defect made its runs (RN3, RN4) meaningless. DV1: tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. DV2: agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. This claim is from plan PL3, which repeats it with the same analysis, reworded (both texts are in the exploration summary), and decision rule on the same data. PL3 was planned after the void runs and before its own, so what the void runs showed could have shaped it. The void runs returned only zeros for every count and no agreement values; no coding or count of any system was visible in them, so they showed nothing that could have shaped PL3 beyond the bug itself.",
+   "statement": "Lab plan PL2 was made void (DC3): a defect made its runs (RN3, RN4) meaningless. DV1: tally.py kept only codings whose pass equals the integer 1, but the record stores pass as the string '1', so it counted no coding: every count in RN3 is 0. DV2: agreement.py compared pass with the integers 1 and 2, but the record stores pass as strings, so it found no dossier coded by both coders and computed no agreement. This claim is from plan PL3, which repeats it with the same analysis, reworded (both texts are in the exploration summary), and decision rule on the same data. PL3 was planned after the void runs and before its own, so what the void runs showed could have shaped it. The void runs returned only zeros for every count and no agreement values; no coding or count of any system was visible in them, so they showed nothing that could have shaped PL3 beyond the bug itself. The dossiers were coded after PL2 was planned and before PL3 was; the codebook, the codings and the analysis are those PL2 fixed, unchanged in PL3.",
    "affects": [
     "C2"
    ],
@@ -1833,16 +1837,6 @@
   },
   {
    "id": "L2",
-   "category": "analytic_flexibility",
-   "statement": "Plan PL3 was written after the dossiers had been coded (it re-runs PL2's analysis after a bug fix), so the codings of its counts precede its plan; the codebook, the codings and the analysis are those fixed under PL2, unchanged.",
-   "affects": [
-    "C2"
-   ],
-   "impact": "could_bias_magnitude",
-   "mitigation": "none"
-  },
-  {
-   "id": "L3",
    "category": "sampling",
    "statement": "The scan covers only systems that 20 fixed web queries (and one level of snowballing) returned on 19 November 2026; products seen in an earlier ad-hoc search but not returned (Orb Composer, LANDR Composer, InstaComposer, Muse, RapidComposer, Texturium) are not in the counts, and a negative or positive count holds for this frame only.",
    "affects": [
@@ -1853,7 +1847,7 @@
    "mitigation": "none"
   },
   {
-   "id": "L4",
+   "id": "L3",
    "category": "measurement",
    "statement": "Dossiers were built from WebFetch renderings of each page by a language model and from search snippets, not from byte copies of the pages; a feature a page states could be missed or misrendered, and several dossiers (Dorico, Chord Dock, Finale, research papers) rest on snippets or summaries.",
    "affects": [
