@@ -1,9 +1,12 @@
 """Per-system coding table for the score-arrangers-2026 study: one row per arranging system (dossier), with its link
-and, for each code, 1 if pass 1 coded the dossier with it and 0 if not. Reads $CLAIMSET_CODINGS; writes the table
+and, for each code (full match first, then output, input, method, availability, pricing, platform), a tick if pass 1 coded the dossier with it; results give 1 or 0. Reads $CLAIMSET_CODINGS; writes the table
 as systems.csv in $CLAIMSET_RUN_DIR and its cells as results to $CLAIMSET_RESULTS."""
 import csv, json, os
 snap = json.load(open(os.environ["CLAIMSET_CODINGS"], encoding="utf-8"))
-codes = [c for c in snap["codes"] if c["id"] != "TM12"] + [c for c in snap["codes"] if c["id"] == "TM12"]
+ORDER = ["TM12", "TM2", "TM3", "TM4", "TM5", "TM6", "TM7", "TM8", "TM9", "TM10", "TM11",
+         "TM14", "TM15", "TM16", "TM17", "TM18", "TM19", "TM20", "TM21", "TM22", "TM23"]
+byid = {c["id"]: c for c in snap["codes"]}
+codes = [byid[i] for i in ORDER if i in byid]
 name = {c["id"]: c["term"] for c in snap["codes"]}
 has = {}
 for row in snap["codings"]:
@@ -17,7 +20,7 @@ for sid in order:
     s = src[sid]
     title = s["title"].removeprefix("Dossier: ")
     vals = [int(c["id"] in has[sid]) for c in codes]
-    rows.append([title, s["uri"]] + vals)
+    rows.append([title, s["uri"]] + ["\u2713" if v else "" for v in vals])
     for c, v in zip(codes, vals):
         results.append({"variable": name[c["id"]], "value": v, "conditions": {"system": title, "link": s["uri"]}})
 d = os.environ.get("CLAIMSET_RUN_DIR", ".")
